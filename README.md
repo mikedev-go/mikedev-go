@@ -1,16 +1,349 @@
-## Hi there 👋
+# Miguel Antonio Baez Romero
+## 💻 Senior Full Stack Developer | Cloud Solutions Architect | AWS Specialist
 
-<!--
-**mikedev-go/mikedev-go** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Email](https://img.shields.io/badge/Email-migelbaezr%40gmail.com-red?style=flat-square&logo=gmail)](mailto:migelbaezr@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-migelbaez-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/migelbaez/)
+[![Phone](https://img.shields.io/badge/Phone-%2B51%20907%20344%20704-green?style=flat-square&logo=whatsapp)](tel:+51907344704)
+[![Location](https://img.shields.io/badge/Location-La%20Molina%2C%20Lima%2C%20Per%C3%BA-orange?style=flat-square&logo=googlemaps)](https://maps.google.com/?q=La+Molina,Lima,Peru)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Resumen Profesional
+
+**Senior Full Stack & Cloud Developer** con **15+ años de experiencia** en el diseño, desarrollo y despliegue de soluciones tecnológicas innovadoras y escalables. Especializado en **JavaScript/TypeScript**, **Java**, **C#** y **Python**, con expertise en arquitecturas de **microservicios**, **cloud computing** y **HealthTech**.
+
+**Fortalezas clave:**
+- 🏥 **HealthTech & Interoperabilidad** - FHIR, HL7 v2, sistemas de salud digitales
+- 🤖 **AI/ML Engineering** - Splink, Gemini Embeddings, RAG, OpenAI API
+- 🏗️ **Arquitectura de Microservicios** y sistemas distribuidos escalables
+- ☁️ **Multi-Cloud Computing** - AWS, GCP, Azure con certificaciones oficiales
+- 🔄 **DevOps & CI/CD** - Automatización completa de pipelines
+- 📊 **Observabilidad** - Métricas, monitoreo y alertas proactivas
+- 🛡️ **Seguridad** - Implementación de estándares OWASP y mejores prácticas
+- 👥 **Liderazgo Técnico** - Mentoría y desarrollo de equipos
+
+---
+
+## 🛠️ Stack Tecnológico
+
+### 💻 Lenguajes de Programación
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
+![Java](https://img.shields.io/badge/-Java-007396?logo=openjdk&logoColor=white&style=for-the-badge)
+![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white&style=for-the-badge)
+![C%23](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white&style=for-the-badge)
+![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge)
+
+### 🚀 Frameworks & Runtime
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=for-the-badge)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white&style=for-the-badge)
+![.NET](https://img.shields.io/badge/-.NET-512BD4?logo=dotnet&logoColor=white&style=for-the-badge)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=springboot&logoColor=white&style=for-the-badge)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white&style=for-the-badge)
+
+### ☁️ Cloud Platforms
+![AWS](https://img.shields.io/badge/-AWS-FF9900?logo=amazonaws&logoColor=white&style=for-the-badge)
+![Google Cloud](https://img.shields.io/badge/-GCP-4285F4?logo=googlecloud&logoColor=white&style=for-the-badge)
+![Azure](https://img.shields.io/badge/-Azure-0078D4?logo=microsoftazure&logoColor=white&style=for-the-badge)
+
+### 🛠️ DevOps & Infrastructure
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=for-the-badge)
+![Terraform](https://img.shields.io/badge/-Terraform-844FBA?logo=terraform&logoColor=white&style=for-the-badge)
+![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?logo=jenkins&logoColor=white&style=for-the-badge)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?logo=githubactions&logoColor=white&style=for-the-badge)
+
+### 🗄️ Bases de Datos
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white&style=for-the-badge)
+![DynamoDB](https://img.shields.io/badge/-DynamoDB-4053D6?logo=amazondynamodb&logoColor=white&style=for-the-badge)
+
+### 🤖 AI & Emerging Technologies
+![OpenAI](https://img.shields.io/badge/-OpenAI-412991?logo=openai&logoColor=white&style=for-the-badge)
+![ChatGPT](https://img.shields.io/badge/-ChatGPT-00A67E?logo=openai&logoColor=white&style=for-the-badge)
+![Google Gemini](https://img.shields.io/badge/-Gemini-4285F4?logo=google&logoColor=white&style=for-the-badge)
+
+### 🏥 HealthTech & Interoperability
+![FHIR](https://img.shields.io/badge/-FHIR-326CE5?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJMMTMuMDkgOC4yNkwyMCA5TDEzLjA5IDE1Ljc0TDEyIDIyTDEwLjkxIDE1Ljc0TDQgOUwxMC45MSA4LjI2TDEyIDJaIiBmaWxsPSJ3aGl0ZSIvPgo8L3N2Zz4K)
+![HL7](https://img.shields.io/badge/-HL7%20v2-0052CC?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJMMTMuMDkgOC4yNkwyMCA5TDEzLjA5IDE1Ljc0TDEyIDIyTDEwLjkxIDE1Ljc0TDQgOUwxMC45MSA4LjI2TDEyIDJaIiBmaWxsPSJ3aGl0ZSIvPgo8L3N2Zz4K)
+![Splink](https://img.shields.io/badge/-Splink-FF6B6B?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJMMTMuMDkgOC4yNkwyMCA5TDEzLjA5IDE1Ljc0TDEyIDIyTDEwLjkxIDE1Ljc0TDQgOUwxMC45MSA4LjI2TDEyIDJaIiBmaWxsPSJ3aGl0ZSIvPgo8L3N2Zz4K)
+
+### 📊 Monitoring & Analytics
+![New Relic](https://img.shields.io/badge/-New%20Relic-008C99?logo=newrelic&logoColor=white&style=for-the-badge)
+![CloudWatch](https://img.shields.io/badge/-CloudWatch-FF9900?logo=amazoncloudwatch&logoColor=white&style=for-the-badge)
+![Grafana](https://img.shields.io/badge/-Grafana-F46800?logo=grafana&logoColor=white&style=for-the-badge)
+
+---
+
+## 💼 Experiencia Profesional Destacada
+
+### 🔹 **Analista Técnico Backend Senior** 
+**Rimac Seguros** | *Marzo 2025 - Actualidad (Remoto)*
+
+**Arquitectura Healthcare & Interoperabilidad:**
+- 🏥 **Diseñé e implementé integraciones backend** en el ecosistema **Google Cloud Platform (GCP)** usando **Cloud Run** y **Application Integrations**, automatizando flujos clínicos y administrativos
+- 🔗 **Construí microservicios desacoplados** en **NestJS**, **FastAPI** y **Node.js** para interoperabilidad con sistemas de salud basados en **FHIR**, trabajando con recursos como Person, Patient, RelatedPerson, Coverage y Encounter
+- 📋 **Implementé procesamiento e intercambio** de mensajes clínicos usando **HL7 v2**, facilitando la interoperabilidad entre sistemas hospitalarios y aseguradoras
+
+**AI & Machine Learning para Healthcare:**
+- 🤖 **Desarrollé lógica avanzada de emparejamiento** e identificación de pacientes usando **Splink** para deduplicación y **Gemini Embeddings** para validación semántica, **reduciendo falsos positivos en más del 80%**
+
+**Infraestructura & Seguridad:**
+- 🔐 **Configuré almacenamiento estructurado** de datos clínicos en **FireStorage** y expuse APIs seguras mediante **ApiGee**, garantizando cumplimiento de políticas de acceso y auditoría
+- ⚖️ **Establecí balanceadores de carga**, **health checks** y escalamiento automático en servicios críticos, asegurando alta disponibilidad
+
+**Stack:** GCP, Cloud Run, Application Integrations, FireStorage, ApiGee, NestJS, Node.js, FastAPI, Python, FHIR (Person, Patient, RelatedPerson, Coverage, Encounter), HL7 v2, Splink, Gemini Embeddings, Load Balancing
+
+---
+
+### 🔹 **Cloud Specialist AWS & DevOps**
+**Impulse** | *Agosto 2024 - Febrero 2025 (Remoto)*
+
+**Arquitectura e Infraestructura:**
+- 🏗️ **Diseñé y desplegué IaC** para múltiples microservicios usando **Terraform**, automatizando ambientes AWS de forma reproducible y escalable
+- ☁️ **Orquesté entornos en AWS Fargate**, gestionando redes seguras con **VPC**, balanceo de carga, **API Gateway**, y almacenamiento distribuido en **S3** y **CloudFront**
+- ⚡ **Automatizé flujos serverless** mediante **AWS Lambda**, **Lambda@Edge**, **Step Functions**, **EventBridge**, **SNS** y **SQS**, habilitando integración entre servicios desacoplados
+
+**Monitoreo y DevOps:**
+- 📊 **Implementé alertas proactivas** con **CloudWatch Alarms** y monitoreo de rendimiento con **New Relic** y **Metabase**
+- 🚀 **Gestioné despliegues continuos** con **GitHub Actions**, controlando permisos y seguridad mediante **IAM Roles**, y optimizando costos bajo prácticas **FinOps**
+
+**Desarrollo Full Stack:**
+- 🔧 **Desarrollé microservicios backend** en **Node.js**, **Python (FastAPI + Pydantic)** y **Golang (Fiber)** para APIs de alto rendimiento y procesamiento concurrente
+- 🎨 **Participé en desarrollo frontend** en **React**, incluyendo dashboards operativos y visualización de métricas
+
+**Integraciones Avanzadas:**
+- 💬 **Implementé integración con WhatsApp Business API**, incluyendo creación de cuentas, configuración de números, y flujos de automatización para notificaciones y soporte conversacional
+- 🤖 **Desarrollé aplicaciones con OpenAI API**, creando flujos de generación de contenido mediante **prompts dinámicos**, herramientas personalizadas (**tools**) y **retrieval-augmented generation (RAG)** con base de conocimientos contextuales
+
+**Stack:** AWS Fargate, VPC, CloudFront, S3, API Gateway, RDS Aurora, Route 53, Lambda, Lambda@Edge, Step Functions, EventBridge, SQS, SNS, DynamoDB, Terraform, GitHub Actions, IAM, CloudWatch Alarms, ECR, Amplify, Metabase, New Relic, FinOps, Node.js, Python, FastAPI, Pydantic, Golang, Fiber, React, WhatsApp Business API, OpenAI API, Prompt Engineering, RAG
+
+---
+
+### 🔹 **Consultor Full Stack Senior**
+**Singular Tech** | *2023 - Presente*
+
+**Responsabilidades:**
+- 📋 **Análisis y propuestas técnicas** en plataformas Microsoft bajo arquitectura CQRS
+- 🚢 **Liderazgo de proyecto frontend** para gestión de reservas marítimas
+- ⚙️ **Implementación técnica** para operaciones marítimas y portuarias
+
+**Stack:** C#, ASP.NET Core, Entity Framework Core, Angular, Azure Cloud, Azure SQL, Azure DevOps
+
+---
+
+### 🔹 **Backend Developer AWS Senior**
+**Culqi** | *2023 - 2024*
+
+**Logros principales:**
+- 🏗️ Implementé **microservicios con arquitectura orientada a eventos**
+- 📊 Cumplí **estándares organizacionales** de cobertura y calidad de código
+- 🛡️ Participé en **proyecto de Gestión de Fraudes y Disputas**
+- 🔧 Implementé **testing automatizado** y documentación técnica
+
+**Stack:** TypeScript, Jest, Serverless Framework, KoaJS, Docker, AWS (ECR, ECS, Lambda, Aurora PostgreSQL)
+
+---
+
+### 🔹 **Tech Owner - Soluciones de Procesamiento**
+**Niubiz (Visa)** | *2022 - 2023*
+
+**Logros principales:**
+- 👥 **Lideré técnicamente** equipo de desarrollo
+- 🏗️ Participé en **elaboración de arquitectura** y análisis técnico
+- 🚀 Coordiné **despliegues en producción** siguiendo estándares de calidad
+- ⛓️ Implementé soluciones con **Hyperledger Fabric** y blockchain
+
+**Stack:** Java, Spring Boot, Node.js, NestJS, React, AWS (API Gateway, Lambda, EKS), Docker, Kubernetes
+
+---
+
+### 🔹 **Backend Developer AWS Senior**
+**Pago Efectivo (Paysafe Company)** | *2021 - 2022*
+
+**Logros principales:**
+- 🔄 Participé en **todo el ciclo de desarrollo** desde requisitos hasta producción
+- 🛡️ Aseguré **cumplimiento de estándares** de calidad y seguridad
+- ☁️ Implementé soluciones en **AWS y .NET Core**
+
+**Stack:** .NET Core, Microsoft SQL Server, AWS (EC2, Lambda, EKS, ECR), Docker, Jenkins
+
+---
+
+### 🔹 **Backend Developer AWS Senior**
+**Rimac Seguros** | *2020 - 2021*
+
+**Logros principales:**
+- 🔧 Desarrollé **arquitectura serverless** con AWS
+- 📊 Implementé **monitoreo y observabilidad** con CloudWatch
+- 🚀 Optimicé **performance** de aplicaciones críticas
+
+**Stack:** Node.js, Serverless Framework, Oracle, AWS (API Gateway, Lambda, DynamoDB), JMeter
+
+---
+
+### 🔹 **Desarrollador de Sistemas Senior**
+**Enotria** | *2014 - 2018*
+
+**Logros extraordinarios:**
+- 📈 **Aumenté el volumen de mailing en 1000%** (de 100K a 1M envíos mensuales)
+- 💳 Implementé **lectura automática de chips Mifare** para tarjetas de transporte público
+- 💰 **Ahorré miles de soles** en consultorías mediante proyectos de investigación
+- 🎯 Lideré **implementación de proyectos clave** para la compañía
+
+**Stack:** C#, MSSQL, Windows Services, MVC, SignalR, C++, OMNIKEY SDK, Han's Laser SDK
+
+---
+
+## 🎓 Educación
+
+**🎓 Dirección de Tecnologías de la Información**  
+*ISIL Escuela de Negocios* | Lima, Perú | *2024 - En curso*
+
+**💻 Técnico en Computación e Informática**  
+*Cibertec (Laureate Education)* | Lima, Perú | *2011 - 2014*  
+*Mención en Análisis y Programación*
+
+---
+
+## 📜 Certificaciones
+
+🏅 **AWS Certified Developer – Associate**  
+*Amazon Web Services (AWS)*
+
+🏅 **AWS Certified Cloud Practitioner**  
+*Amazon Web Services (AWS)*
+
+🏅 **AWS Academy Graduate - Cloud Foundations**  
+*Amazon Web Services (AWS)*
+
+🏅 **Foundational C# with Microsoft**  
+*Microsoft*
+
+🏅 **Graph Developer - Professional**  
+*Apollo GraphQL*
+
+🏅 **Scrum Developer Certified (SDC)**  
+*SCRUMstudy*
+
+🏅 **Scrum Fundamentals Certified (SFC)**  
+*SCRUMstudy*
+
+---
+
+## 🌟 Proyectos Destacados
+
+### 🏥 **Healthcare Interoperability Platform**
+**Stack:** GCP Cloud Run, FHIR, HL7 v2, NestJS, FastAPI, Splink, Gemini Embeddings, ApiGee  
+- 🔗 **Interoperabilidad FHIR** con recursos clínicos estándar (Patient, Encounter, Coverage)
+- 📋 **Procesamiento HL7 v2** para intercambio entre sistemas hospitalarios
+- 🤖 **AI para matching de pacientes** con Splink y Gemini Embeddings (**80% reducción de falsos positivos**)
+- 🔐 **APIs seguras** con ApiGee y cumplimiento de normativas healthcare
+- ⚖️ **Alta disponibilidad** con load balancing y health checks automatizados
+
+### 🤖 **AI-Powered Business Automation Platform**
+**Stack:** OpenAI API, RAG, Python FastAPI, Node.js, WhatsApp Business API, AWS Lambda  
+- 🧠 **Implementación de RAG** con base de conocimientos contextuales
+- 💬 **Integración completa con WhatsApp Business** para automatización conversacional
+- ⚡ **Prompt Engineering avanzado** con herramientas personalizadas (tools)
+- 📊 **Dashboard de métricas** con Metabase y New Relic
+- 🔧 **Arquitectura serverless** optimizada para FinOps
+
+### 🌱 **AppRiegoPe - Sistema de Riego Inteligente**
+**Stack:** React, AWS Amplify, AppSync, GraphQL, DynamoDB, Arduino  
+- 🤖 **Integración con Arduino** para automatización de riegos
+- 📊 **Sensores IoT** de humedad y temperatura
+- ☁️ **Arquitectura serverless** completamente en AWS
+- 📱 **Dashboard responsive** en tiempo real
+
+### 🏦 **Sistema de Microservicios Financieros**
+**Stack:** Java, Spring Boot, AWS, Docker, Kubernetes  
+- 🏗️ **Arquitectura distribuida** con 15+ microservicios
+- 💳 **Procesamiento de transacciones** de alto volumen
+- 🛡️ **Cumplimiento PCI-DSS** y estándares financieros
+- 📈 **SLA del 99.9%** de disponibilidad
+
+---
+
+## 🏆 Logros Profesionales Destacados
+
+- 📈 **Incrementé eficiencia operativa en 40%** mediante integración de APIs
+- 🚀 **Reduje tiempo de despliegue en 70%** con automatización CI/CD
+- 📊 **Implementé monitoreo proactivo** reduciendo MTTR en 60%
+- 💰 **Generé ahorros significativos** optimizando procesos de mailing
+- 🔧 **Migré exitosamente** aplicaciones monolíticas a microservicios
+- 👥 **Lideré equipos técnicos** en múltiples organizaciones
+
+---
+
+## 📚 Certificados Técnicos Adicionales
+
+**HackerRank Certifications:**
+- Angular (Intermediate) Certificate
+- Frontend Developer (React) Certificate  
+- SQL (Advanced) Certificate
+- JavaScript (Intermediate) Certificate
+- REST API (Intermediate) Certificate
+
+---
+
+## 🌐 Idiomas
+
+**🇪🇸 Español:** Nativo  
+**🇺🇸 English:** Intermediate B2
+
+---
+
+## 📈 Estadísticas de GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=migelbaez&show_icons=true&theme=dark&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=migelbaez&layout=compact&theme=dark)
+
+---
+
+## 🎯 Objetivos Profesionales 2025
+
+- 🏥 **Liderar transformación digital en HealthTech** con interoperabilidad FHIR/HL7
+- 🤖 **Profundizar en AI/ML Engineering** para healthcare (patient matching, clinical decision support)
+- 🏗️ **Liderar iniciativas de arquitectura cloud-native** a escala empresarial
+- 💰 **Especialización en FinOps** para optimización de costos cloud
+- 🌱 **Contribuir más activamente** a proyectos open source en HealthTech
+- 📚 **Obtener certificaciones GCP Professional** y AWS Solutions Architect Professional
+- 👥 **Desarrollar y mentorar** equipos de alto rendimiento
+- 🗣️ **Participar como speaker** en conferencias sobre HealthTech y AI
+- 🔬 **Investigar tecnologías emergentes** como WebAssembly y Edge Computing en salud
+
+---
+
+## 💡 Tecnologías que Domino
+
+**Backend:** Node.js, Express, NestJS, Koa, Spring Boot, .NET Core, FastAPI, Django, Golang (Fiber)  
+**Frontend:** React, Angular, Next.js, Vue.js, HTML5, CSS3, TypeScript  
+**Databases:** PostgreSQL, MySQL, MongoDB, Redis, DynamoDB, Oracle, SQL Server, FireStorage  
+**Cloud:** AWS (Lambda, EC2, ECS, EKS, Fargate, S3, RDS, API Gateway), GCP (Cloud Run, FireStorage, ApiGee), Azure  
+**DevOps:** Docker, Kubernetes, Terraform, Jenkins, GitHub Actions, GitLab CI  
+**Testing:** Jest, JUnit, Selenium, Postman, JMeter, K6, SonarQube  
+**Architecture:** Microservices, Event-Driven, CQRS, Clean Architecture, DDD  
+**AI/ML:** OpenAI API, Gemini Embeddings, Prompt Engineering, RAG (Retrieval-Augmented Generation), Splink  
+**HealthTech:** FHIR (Person, Patient, RelatedPerson, Coverage, Encounter), HL7 v2, Healthcare Interoperability  
+**Monitoring:** New Relic, CloudWatch, Metabase, Grafana, ELK Stack  
+**FinOps:** Cost optimization, Resource management, AWS Cost Explorer  
+**APIs:** WhatsApp Business API, HubSpot API, GraphQL, REST, gRPC, FHIR APIs
+
+---
+
+## 🤝 Conectemos
+
+💬 **¿Tienes un proyecto desafiante?** ¡Me encantaría ser parte de tu equipo!
+
+[![Email](https://img.shields.io/badge/Email-migelbaezr%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:migelbaezr@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-migelbaez-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/migelbaez/)
+
+---
+
+*⭐ Si encuentras valor en mi trabajo, ¡no olvides darle una estrella a mis repositorios!*  
+*🚀 Siempre abierto a colaborar en proyectos innovadores y de alto impacto*
