@@ -1,5 +1,5 @@
 # Miguel Baez
-## 💻 Senior Full Stack Developer | Cloud Solutions Architect | AWS Specialist
+## 💻 Senior Full Stack Developer | AWS Specialist
 
 [![Email](https://img.shields.io/badge/Email-migelbaezr%40gmail.com-red?style=flat-square&logo=gmail)](mailto:migelbaezr@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-migelbaez-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/migelbaez/)
