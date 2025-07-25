@@ -1,4 +1,4 @@
-# Miguel Antonio Baez Romero
+# Miguel Baez
 ## 💻 Senior Full Stack Developer | Cloud Solutions Architect | AWS Specialist
 
 [![Email](https://img.shields.io/badge/Email-migelbaezr%40gmail.com-red?style=flat-square&logo=gmail)](mailto:migelbaezr@gmail.com)
