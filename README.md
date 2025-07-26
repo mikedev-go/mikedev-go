@@ -1,7 +1,7 @@
 # Miguel Baez
 ## 💻 Senior Full Stack Developer | AWS Specialist
 
-[![Email](https://img.shields.io/badge/Email-migelbaezr%40gmail.com-red?style=flat-square&logo=gmail)](mailto:migelbaezr@gmail.com)
+[![Email](https://img.shields.io/badge/Email-migelbaezr%40gmail.com-red?style=flat-square&logo=gmail)](mailto:mikedev.go@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-migelbaez-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/migelbaez/)
 [![Phone](https://img.shields.io/badge/Phone-%2B51%20907%20344%20704-green?style=flat-square&logo=whatsapp)](tel:+51907344704)
 [![Location](https://img.shields.io/badge/Location-La%20Molina%2C%20Lima%2C%20Per%C3%BA-orange?style=flat-square&logo=googlemaps)](https://maps.google.com/?q=La+Molina,Lima,Peru)
