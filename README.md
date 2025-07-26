@@ -304,13 +304,37 @@
 ### 🔹 **Desarrollador de Sistemas Senior**
 **Enotria** | *2014 - 2018*
 
-**Logros extraordinarios:**
-- 📈 **Aumenté el volumen de mailing en 1000%** (de 100K a 1M envíos mensuales)
-- 💳 Implementé **lectura automática de chips Mifare** para tarjetas de transporte público
-- 💰 **Ahorré miles de soles** en consultorías mediante proyectos de investigación
-- 🎯 Lideré **implementación de proyectos clave** para la compañía
+**Optimización de Sistemas Masivos:**
+- 📈 **Logré crecimiento exponencial del sistema de mailing** aumentando capacidad de **100K a 1M envíos mensuales (1000% de incremento)** mediante optimización de arquitectura y base de datos
+- ⚡ **Resolví cuellos de botella críticos** en **MSSQL** y implementé **Windows Services** optimizados para procesamiento masivo y concurrente
+- 🔄 **Implementé **SignalR** para comunicación en tiempo real** mejorando la monitorización y gestión de campañas de mailing
 
-**Stack:** C#, MSSQL, Windows Services, MVC, SignalR, C++, OMNIKEY SDK, Han's Laser SDK
+**Sistemas de Transporte Inteligente:**
+- 💳 **Desarrollé integración con chips Mifare** para tarjetas de transporte público implementando **lectura automática de IDs** usando **OMNIKEY SDK**
+- 🏭 **Automaticé producción de tarjetas inteligentes** integrando **Han's Laser SDK** para grabado y personalización de tarjetas
+- 🔧 **Programé en C++** para comunicación directa con hardware especializado y optimización de performance en lectores de tarjetas
+
+**Innovación & Proyectos de Investigación:**
+- 💰 **Generé ahorros significativos** desarrollando soluciones propias en lugar de contratar consultorías externas, evitando gastos de **miles de soles** anuales
+- 🔬 **Lideré proyectos de I+D** creando soluciones innovadoras que se convirtieron en productos clave de la empresa
+- 🎯 **Implementé arquitectura escalable** que soportó el crecimiento exponencial sin necesidad de infraestructura adicional costosa
+
+**Desarrollo Full-Stack & Arquitectura:**
+- 🏗️ **Diseñé aplicaciones web** usando **ASP.NET MVC** para gestión y monitoreo de sistemas críticos
+- 📊 **Optimicé rendimiento de base de datos** con **Microsoft SQL Server** implementando índices estratégicos y consultas eficientes
+- 🔧 **Desarrollé Windows Services** para procesamiento en background y tareas automatizadas de alta disponibilidad
+
+**Liderazgo Técnico:**
+- 👥 **Lideré implementación de proyectos clave** coordinando equipos multidisciplinarios para delivery exitoso
+- 🚀 **Establecí estándares técnicos** y mejores prácticas que se adoptaron como metodología estándar en la empresa
+- 📈 **Transformé operaciones críticas** de procesos manuales a sistemas automatizados de alta eficiencia
+
+**Impacto en el Negocio:**
+- 🎯 **Habilitó crecimiento empresarial** mediante soluciones que escalaron 10x sin incremento proporcional en costos
+- 💡 **Estableció capacidades técnicas internas** reduciendo dependencia de proveedores externos
+- 🏆 **Posicionó a Enotria como referente** en soluciones de transporte inteligente y sistemas de comunicación masiva
+
+**Stack:** C#, ASP.NET MVC, Microsoft SQL Server, Windows Services, SignalR, C++, OMNIKEY SDK, Han's Laser SDK, Sistemas de Mailing Masivo, Chips Mifare, Hardware Integration
 
 ---
 
