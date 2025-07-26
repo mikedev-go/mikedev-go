@@ -235,12 +235,31 @@
 ### 🔹 **Backend Developer AWS Senior**
 **Rimac Seguros** | *2020 - 2021*
 
-**Logros principales:**
-- 🔧 Desarrollé **arquitectura serverless** con AWS
-- 📊 Implementé **monitoreo y observabilidad** con CloudWatch
-- 🚀 Optimicé **performance** de aplicaciones críticas
+**Seguros Vehiculares & Digitalización:**
+- 🚗 **Desarrollé soluciones para seguros vehiculares** implementando APIs para cotización, emisión y gestión de pólizas automotrices
+- 🏗️ **Construí arquitectura serverless** con **AWS Lambda**, **API Gateway** y **Step Functions** para automatizar procesos críticos del negocio
+- 📋 **Integré con sistemas legacy Oracle** que contenían el core de pólizas de Rimac, creando adaptadores para comunicación híbrida
 
-**Stack:** Node.js, Serverless Framework, Oracle, AWS (API Gateway, Lambda, DynamoDB), JMeter
+**Procesos de Postventa:**
+- ❌ **Implementé sistema de anulación de pólizas** con workflow automatizado para validaciones, cálculos de devolución y procesos de aprobación
+- 🔄 **Desarrollé funcionalidades de renovación** automatizando notificaciones, cálculo de nuevas primas y gestión de ciclo de vida de pólizas
+- ⚡ **Orquesté procesos complejos** usando **Step Functions** para workflows multi-paso con validaciones de negocio y integraciones
+
+**Arquitectura & Performance:**
+- ☁️ **Diseñé arquitectura serverless escalable** con **Serverless Framework** optimizando costos y mejorando tiempos de respuesta
+- 🗄️ **Optimicé integración Oracle-AWS** implementando patrones eficientes para comunicación entre sistemas legacy y cloud-native
+- 📊 **Implementé monitoreo y observabilidad** con **CloudWatch** estableciendo métricas, dashboards y alertas para aplicaciones críticas
+
+**Testing & Calidad:**
+- 🔧 **Ejecuté testing de performance** con **JMeter** validando capacidad de carga y optimizando APIs críticas
+- 📈 **Mejoré performance de aplicaciones** reduciendo tiempos de respuesta y eliminando cuellos de botella en procesos de alta demanda
+
+**Impacto en el Negocio:**
+- 🚀 **Automatizé procesos manuales** de anulación y renovación, reduciendo tiempo operativo y errores humanos
+- 📱 **Habilitó digitalización** de servicios vehiculares mejorando experiencia del cliente y eficiencia operativa
+- ⚖️ **Optimizó workflows** de postventa permitiendo mejor gestión de cartera y satisfacción del cliente
+
+**Stack:** Node.js, Serverless Framework, Oracle, AWS (API Gateway, Lambda, Step Functions, DynamoDB, CloudWatch), JMeter, Seguros Vehiculares, Workflows de Postventa
 
 ---
 
