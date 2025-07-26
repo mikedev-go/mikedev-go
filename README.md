@@ -263,17 +263,41 @@
 
 ---
 
-### 🔹 **Analista Técnico**
+### 🔹 **Analista Técnico & Líder Técnico**
 **Canvia** | *2018 - 2019*
 
-**Responsabilidades:**
-- 🔧 **Trabajé en diversos proyectos y roles** abarcando desarrollo, calidad, análisis funcional y liderazgo técnico
-- 👥 **Participé en entrevistas técnicas** y eventos corporativos de la empresa
-- 🚀 **Destaqué por flexibilidad** para adaptarme rápidamente a nuevas tecnologías
-- 💡 **Propuse soluciones innovadoras** en beneficio del equipo y la organización
-- 🏗️ **Implementé soluciones** en múltiples tecnologías y plataformas cloud
+**Liderazgo Técnico & Gestión de Equipos:**
+- 👥 **Lideré equipo ágil** de 3 desarrolladores usando **metodología Scrum** para proyectos multisectoriales de alta complejidad
+- 🏗️ **Diseñé arquetipos y arquitecturas** end-to-end para soluciones empresariales en sectores telecomunicaciones, seguros y retail
+- 🎯 **Coordiné con stakeholders** del cliente gestionando requisitos técnicos y funcionales en proyectos críticos
 
-**Stack:** C#, WCF, MVC4, Microsoft SQL Server, IIS, SoapUI, JMeter, Application Insights, Selenium, React, Ant Design, Redux, Node.js, Azure PaaS, IBM Watson, AWS PaaS, PostgreSQL
+**Proyecto Chatbot con IA:**
+- 🤖 **Desarrollé chatbot empresarial** con **React**, **Ant Design**, **LoopBack**, **PostgreSQL** e **IBM Watson** para automatización de atención al cliente
+- 💬 **Implementé comunicación en tiempo real** usando **WebSockets** para experiencia conversacional fluida y responsiva
+- ☁️ **Desplegué solución completa** en **IBM Cloud** integrando servicios de IA con infraestructura escalable
+- 📊 **Logré automatización** de consultas frecuentes reduciendo carga operativa de agentes humanos
+
+**Roles Multidisciplinarios:**
+- 🔧 **Desarrollé soluciones full-stack** abarcando frontend (**React**, **Ant Design**, **Redux**), backend (**C#**, **Node.js**, **WCF**), y bases de datos (**SQL Server**, **PostgreSQL**)
+- 🧪 **Ejecuté testing integral** usando **Selenium**, **JMeter** y **SoapUI** para garantizar calidad en aplicaciones críticas
+- 📋 **Realicé análisis funcional** traduciendo requisitos de negocio en especificaciones técnicas detalladas
+
+**Innovación & Multi-Cloud:**
+- 💡 **Propuse soluciones innovadoras** integrando **IBM Watson** para casos de uso específicos de cada industria
+- ☁️ **Implementé arquitecturas híbridas** combinando **AWS PaaS**, **Azure PaaS** e **IBM Cloud** según necesidades del cliente
+- 📈 **Optimicé procesos** mediante **Application Insights** y monitoreo proactivo de aplicaciones
+
+**Gestión Corporativa:**
+- 👥 **Participé en entrevistas técnicas** para selección de talento y fortalecimiento de equipos de desarrollo
+- 🚀 **Destaqué por adaptabilidad** asimilando rápidamente nuevas tecnologías y metodologías según demandas del proyecto
+- 🏢 **Representé la empresa** en eventos corporativos y técnicos del sector
+
+**Impacto Multisectorial:**
+- 📱 **Desarrollé soluciones** para gestión de clientes y servicios en sector telecomunicaciones
+- 💄 **Implementé plataformas** de e-commerce y gestión de ventas para industria de venta directa
+- 🏥 **Construí sistemas** de cotización y gestión de pólizas para sector asegurador
+
+**Stack:** C#, WCF, MVC4, Node.js, React, Ant Design, Redux, LoopBack, Microsoft SQL Server, PostgreSQL, IIS, SoapUI, JMeter, Application Insights, Selenium, IBM Cloud, IBM Watson, AWS PaaS, Azure PaaS, WebSockets, Scrum
 
 ---
 
