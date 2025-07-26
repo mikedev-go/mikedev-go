@@ -175,13 +175,28 @@
 ### 🔹 **Tech Owner - Soluciones de Procesamiento**
 **Niubiz (Visa)** | *2022 - 2023*
 
-**Logros principales:**
-- 👥 **Lideré técnicamente** equipo de desarrollo
-- 🏗️ Participé en **elaboración de arquitectura** y análisis técnico
-- 🚀 Coordiné **despliegues en producción** siguiendo estándares de calidad
-- ⛓️ Implementé soluciones con **Hyperledger Fabric** y blockchain
+**Liderazgo Técnico & Gestión:**
+- 👥 **Lideré equipo multidisciplinario** de 4 desarrolladores en rol híbrido de backend, cloud specialist y gestión de proyectos ágiles
+- 🎯 **Coordiné entrevistas técnicas** y procesos de hiring para fortalecer capacidades del equipo
+- 🚀 **Gestioné pases a producción** siguiendo estándares de calidad y compliance financiero para sistemas de alta criticidad
 
-**Stack:** Java, Spring Boot, Node.js, NestJS, React, AWS (API Gateway, Lambda, EKS), Docker, Kubernetes
+**Proyectos de Pagos de Alta Transaccionalidad:**
+- 💳 **Code Management**: Desarrollé sistema de gestión de códigos de pago integrando **Pago Efectivo**, **BCP** y **BBVA** para procesamiento masivo de transacciones
+- 📱 **VendeMás - Recargas y Servicios**: Implementé funcionalidades para habilitar pagos de recargas telefónicas y servicios, optimizando el flujo transaccional
+- 🏪 **Backend Transaccional POS**: Diseñé canal alternativo para transacciones de POS, mejorando escalabilidad y performance del ecosistema de pagos
+- 📊 **Sistemas de Conciliación**: Desarrollé procesos automatizados de conciliación bancaria para garantizar integridad transaccional
+
+**Arquitectura Distribuida & Blockchain:**
+- ⛓️ **Implementé soluciones con Hyperledger Fabric** para trazabilidad y auditoría de transacciones financieras
+- 🔄 **Configuré event streaming** con **Kafka** y **Kinesis** para procesamiento en tiempo real de eventos transaccionales
+- ☁️ **Orquesté microservicios** en **EKS** y **Kubernetes** asegurando alta disponibilidad y escalabilidad automática
+
+**Infraestructura & Monitoreo:**
+- 🗄️ **Optimicé bases de datos** usando **PostgreSQL** para transacciones ACID y **DynamoDB** para consultas de alta velocidad
+- 📊 **Implementé alertas y monitoreo** con **New Relic** para observabilidad de aplicaciones críticas y detección proactiva de incidentes
+- 🏗️ **Diseñé arquitectura híbrida** combinando servicios AWS nativos con soluciones blockchain para compliance regulatorio
+
+**Stack:** Java, Spring Boot, Node.js, NestJS, React, PostgreSQL, DynamoDB, AWS Hyperledger Fabric, Kafka, Kinesis, AWS (API Gateway, Lambda, EKS), Docker, Kubernetes, New Relic, Sistemas de Conciliación, Event Streaming
 
 ---
 
