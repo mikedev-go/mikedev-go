@@ -109,8 +109,13 @@
 
 **Arquitectura e Infraestructura:**
 - 🏗️ **Diseñé y desplegué IaC** para múltiples microservicios usando **Terraform**, automatizando ambientes AWS de forma reproducible y escalable
-- ☁️ **Orquesté entornos en AWS Fargate**, gestionando redes seguras con **VPC**, balanceo de carga, **API Gateway**, y almacenamiento distribuido en **S3** y **CloudFront**
-- ⚡ **Automatizé flujos serverless** mediante **AWS Lambda**, **Lambda@Edge**, **Step Functions**, **EventBridge**, **SNS** y **SQS**, habilitando integración entre servicios desacoplados
+- ☁️ **Orquesté entornos en AWS Fargate**, gestionando redes seguras con **VPC**, **balanceadores de carga**, **Route 53** para DNS, y almacenamiento distribuido en **S3** y **CloudFront**
+- 🗄️ **Configuré bases de datos** con **Aurora RDS** para alta disponibilidad y **ElastiCache** con **Val Keys** para optimización de performance y caching distribuido
+- 🔐 **Implementé infraestructura segura** con **Bastion hosts**, **AWS VPN** para conectividad privada y **Cloud Map** para service discovery entre microservicios
+- ⚡ **Automatizé flujos serverless** mediante **AWS Lambda**, **Lambda@Edge**, **Step Functions**, **EventBridge**, **Jobs**, **SNS** y **SQS**, habilitando integración entre servicios desacoplados
+- 🌐 **Configuré distribución global** con **API Gateway**, **CloudFront** para CDN y optimización de latencia a nivel mundial
+- 📈 **Implementé autoescaling inteligente** para microservicios y bases de datos, garantizando performance óptimo bajo diferentes cargas de trabajo
+- 💰 **Logré ahorro de costos superior al 50%** mediante supervisión continua, optimización de recursos y implementación de mejores prácticas **FinOps**
 
 **Analytics & Business Intelligence:**
 - 📊 **Implementé Metabase end-to-end** desde infraestructura hasta dashboards, incluyendo configuración de servidores, base de datos y conectividad
@@ -120,6 +125,8 @@
 
 **Monitoreo y DevOps:**
 - 🔍 **Implementé alertas proactivas** con **CloudWatch Alarms** y monitoreo de rendimiento integrando **New Relic** con **Metabase**
+- 🤖 **Configuré detección automática de anomalías** usando **CloudWatch Anomaly Detection** para identificar patrones inusuales en métricas de aplicaciones y infraestructura
+- 💬 **Establecí sistema de notificaciones** enviando alertas automáticas a **Slack** para respuesta inmediata del equipo ante incidentes y anomalías detectadas
 - 🚀 **Gestioné despliegues continuos** con **GitHub Actions**, controlando permisos y seguridad mediante **IAM Roles**, y optimizando costos bajo prácticas **FinOps**
 
 **Desarrollo Full Stack:**
@@ -130,7 +137,7 @@
 - 💬 **Implementé integración con WhatsApp Business API**, incluyendo creación de cuentas, configuración de números, y flujos de automatización para notificaciones y soporte conversacional
 - 🤖 **Desarrollé aplicaciones con OpenAI API**, creando flujos de generación de contenido mediante **prompts dinámicos** y herramientas personalizadas (**tools**) con base de conocimientos contextuales
 
-**Stack:** AWS Fargate, VPC, CloudFront, S3, API Gateway, RDS Aurora, Route 53, Lambda, Lambda@Edge, Step Functions, EventBridge, SQS, SNS, DynamoDB, Terraform, GitHub Actions, IAM, CloudWatch Alarms, ECR, Amplify, Metabase, New Relic, FinOps, Node.js, Python, FastAPI, Pydantic, Golang, Fiber, React, WhatsApp Business API, OpenAI API, Prompt Engineering, SQL, Data Warehouse, Database Optimization
+**Stack:** AWS (Fargate, VPC, CloudFront, S3, API Gateway, RDS Aurora, Route 53, Lambda, Lambda@Edge, Step Functions, EventBridge, SQS, SNS, DynamoDB, ElastiCache, Val Keys, Bastion, VPN, Cloud Map, Jobs, Autoescaling, CloudWatch Anomaly Detection), Terraform, GitHub Actions, IAM, CloudWatch Alarms, ECR, Amplify, Metabase, New Relic, FinOps, Node.js, Python, FastAPI, Pydantic, Golang, Fiber, React, WhatsApp Business API, OpenAI API, Prompt Engineering, SQL, Data Warehouse, Database Optimization, Slack Integrations
 
 ---
 
