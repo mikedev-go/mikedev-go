@@ -342,7 +342,7 @@
 
 💬 **¿Tienes un proyecto desafiante?** ¡Me encantaría ser parte de tu equipo!
 
-[![Email](https://img.shields.io/badge/Email-migelbaezr%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:migelbaezr@gmail.com)
+[![Email](https://img.shields.io/badge/Email-migelbaezr%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:mikedev.go@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-migelbaez-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/migelbaez/)
 
 ---
