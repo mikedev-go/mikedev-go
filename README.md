@@ -124,7 +124,6 @@
 - 📈 **Desarrollé métricas personalizadas** con SQL avanzado para KPIs de negocio, dashboards operativos y reportes ejecutivos
 
 **Monitoreo y DevOps:**
-- 🔍 **Implementé alertas proactivas** con **CloudWatch Alarms** y monitoreo de rendimiento integrando **New Relic** con **Metabase**
 - 🤖 **Configuré detección automática de anomalías** usando **CloudWatch Anomaly Detection** para identificar patrones inusuales en métricas de aplicaciones y infraestructura
 - 💬 **Establecí sistema de notificaciones** enviando alertas automáticas a **Slack** para respuesta inmediata del equipo ante incidentes y anomalías detectadas
 - 🚀 **Gestioné despliegues continuos** con **GitHub Actions**, controlando permisos y seguridad mediante **IAM Roles**, y optimizando costos bajo prácticas **FinOps**
