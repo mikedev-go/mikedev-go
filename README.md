@@ -203,12 +203,32 @@
 ### 🔹 **Backend Developer AWS Senior**
 **Pago Efectivo (Paysafe Company)** | *2021 - 2022*
 
-**Logros principales:**
-- 🔄 Participé en **todo el ciclo de desarrollo** desde requisitos hasta producción
-- 🛡️ Aseguré **cumplimiento de estándares** de calidad y seguridad
-- ☁️ Implementé soluciones en **AWS y .NET Core**
+**Migración Arquitectónica Critical:**
+- 🔄 **Lideré migración completa** de monolito **.NET Framework** en **IIS/EC2** hacia **microservicios .NET Core** en **AWS Fargate**, transformando la capacidad de escalabilidad del sistema
+- 🏗️ **Implementé arquitectura hexagonal** con puertos y adaptadores para garantizar desacoplamiento y mantenibilidad de microservicios críticos
+- ⚡ **Mejoré significativamente tiempos de respuesta** y **eliminé bloqueos de base de datos** que limitaban la concurrencia del sistema legacy
 
-**Stack:** .NET Core, Microsoft SQL Server, AWS (EC2, Lambda, EKS, ECR), Docker, Jenkins
+**Microservicios del Ecosistema de Pagos:**
+- 💳 **Generación de Códigos de Pago**: Desarrollé servicio para crear códigos únicos de transacción con alta disponibilidad
+- 🔍 **Consulta de Estados**: Implementé API de consulta optimizada para verificación de status de códigos en tiempo real
+- 🏦 **Recepción Multi-Canal**: Construí servicio para procesar pagos de múltiples bancos (**BCP**, **BBVA**, **ScotiaBank**, **Kafnet**) con adaptadores específicos
+- ❌ **Anulación de Pagos**: Desarrollé API para gestión de reversos y anulaciones siguiendo normativas financieras
+
+**Infraestructura & DevOps:**
+- ☁️ **Migré a AWS Fargate** eliminando dependencia de servidores físicos y habilitando auto-scaling automático
+- 🔧 **Optimicé CI/CD con Jenkins** implementando pipelines independientes por microservicio para deployments más ágiles
+- 🗄️ **Resolví problemas de concurrencia** en **Microsoft SQL Server** mediante optimización de queries y arquitectura distribuida
+
+**Compliance & Seguridad:**
+- 🛡️ **Aseguré cumplimiento de estándares** financieros y normativas de seguridad para procesamiento de pagos
+- 🔐 **Implementé patrones de seguridad** específicos para integración con entidades bancarias del ecosistema peruano
+
+**Impacto en el Negocio:**
+- 📈 **Habilitó escalabilidad** para soportar el crecimiento exponencial de Pago Efectivo durante expansión del mercado
+- 🚀 **Aceleró time-to-market** para integración de nuevos canales bancarios mediante arquitectura modular
+- ⚖️ **Eliminó cuellos de botella** que limitaban la capacidad transaccional del sistema legacy
+
+**Stack:** .NET Core, .NET Framework, Microsoft SQL Server, AWS (Fargate, EC2, EKS, ECR, Lambda), Docker, Jenkins, Arquitectura Hexagonal, Microservicios, Integración Bancaria
 
 ---
 
