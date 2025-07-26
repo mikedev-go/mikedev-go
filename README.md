@@ -1,7 +1,7 @@
 # Miguel Baez
 ## 💻 Senior Full Stack Developer | AWS Specialist
 
-[![Email](https://img.shields.io/badge/Email-migelbaezr%40gmail.com-red?style=flat-square&logo=gmail)](mailto:mikedev.go@gmail.com)
+[![Email](https://img.shields.io/badge/Email-migelbaezr%40gmail.com-red?style=flat-square&logo=gmail)](mailto:migelbaezr@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-migelbaez-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/migelbaez/)
 [![Phone](https://img.shields.io/badge/Phone-%2B51%20907%20344%20704-green?style=flat-square&logo=whatsapp)](tel:+51907344704)
 [![Location](https://img.shields.io/badge/Location-La%20Molina%2C%20Lima%2C%20Per%C3%BA-orange?style=flat-square&logo=googlemaps)](https://maps.google.com/?q=La+Molina,Lima,Peru)
@@ -14,7 +14,7 @@
 
 **Fortalezas clave:**
 - 🏥 **HealthTech & Interoperabilidad** - FHIR, HL7 v2, sistemas de salud digitales
-- 🤖 **AI/ML Engineering** - Splink, Gemini Embeddings, RAG, OpenAI API
+- 🤖 **AI/ML Engineering** - Splink, Gemini Embeddings, OpenAI API
 - 🏗️ **Arquitectura de Microservicios** y sistemas distribuidos escalables
 - ☁️ **Multi-Cloud Computing** - AWS, GCP, Azure con certificaciones oficiales
 - 🔄 **DevOps & CI/CD** - Automatización completa de pipelines
@@ -118,21 +118,9 @@
 
 **Integraciones Avanzadas:**
 - 💬 **Implementé integración con WhatsApp Business API**, incluyendo creación de cuentas, configuración de números, y flujos de automatización para notificaciones y soporte conversacional
-- 🤖 **Desarrollé aplicaciones con OpenAI API**, creando flujos de generación de contenido mediante **prompts dinámicos**, herramientas personalizadas (**tools**) y **retrieval-augmented generation (RAG)** con base de conocimientos contextuales
+- 🤖 **Desarrollé aplicaciones con OpenAI API**, creando flujos de generación de contenido mediante **prompts dinámicos** y herramientas personalizadas (**tools**) con base de conocimientos contextuales
 
-**Stack:** AWS Fargate, VPC, CloudFront, S3, API Gateway, RDS Aurora, Route 53, Lambda, Lambda@Edge, Step Functions, EventBridge, SQS, SNS, DynamoDB, Terraform, GitHub Actions, IAM, CloudWatch Alarms, ECR, Amplify, Metabase, New Relic, FinOps, Node.js, Python, FastAPI, Pydantic, Golang, Fiber, React, WhatsApp Business API, OpenAI API, Prompt Engineering, RAG
-
----
-
-### 🔹 **Consultor Full Stack Senior**
-**Singular Tech** | *2023 - Presente*
-
-**Responsabilidades:**
-- 📋 **Análisis y propuestas técnicas** en plataformas Microsoft bajo arquitectura CQRS
-- 🚢 **Liderazgo de proyecto frontend** para gestión de reservas marítimas
-- ⚙️ **Implementación técnica** para operaciones marítimas y portuarias
-
-**Stack:** C#, ASP.NET Core, Entity Framework Core, Angular, Azure Cloud, Azure SQL, Azure DevOps
+**Stack:** AWS Fargate, VPC, CloudFront, S3, API Gateway, RDS Aurora, Route 53, Lambda, Lambda@Edge, Step Functions, EventBridge, SQS, SNS, DynamoDB, Terraform, GitHub Actions, IAM, CloudWatch Alarms, ECR, Amplify, Metabase, New Relic, FinOps, Node.js, Python, FastAPI, Pydantic, Golang, Fiber, React, WhatsApp Business API, OpenAI API, Prompt Engineering
 
 ---
 
@@ -246,8 +234,8 @@
 - ⚖️ **Alta disponibilidad** con load balancing y health checks automatizados
 
 ### 🤖 **AI-Powered Business Automation Platform**
-**Stack:** OpenAI API, RAG, Python FastAPI, Node.js, WhatsApp Business API, AWS Lambda  
-- 🧠 **Implementación de RAG** con base de conocimientos contextuales
+**Stack:** OpenAI API, Python FastAPI, Node.js, WhatsApp Business API, AWS Lambda  
+- 🧠 **Implementación de base de conocimientos** contextuales
 - 💬 **Integración completa con WhatsApp Business** para automatización conversacional
 - ⚡ **Prompt Engineering avanzado** con herramientas personalizadas (tools)
 - 📊 **Dashboard de métricas** con Metabase y New Relic
@@ -328,7 +316,7 @@
 **DevOps:** Docker, Kubernetes, Terraform, Jenkins, GitHub Actions, GitLab CI  
 **Testing:** Jest, JUnit, Selenium, Postman, JMeter, K6, SonarQube  
 **Architecture:** Microservices, Event-Driven, CQRS, Clean Architecture, DDD  
-**AI/ML:** OpenAI API, Gemini Embeddings, Prompt Engineering, RAG (Retrieval-Augmented Generation), Splink  
+**AI/ML:** OpenAI API, Gemini Embeddings, Prompt Engineering, Splink  
 **HealthTech:** FHIR (Person, Patient, RelatedPerson, Coverage, Encounter), HL7 v2, Healthcare Interoperability  
 **Monitoring:** New Relic, CloudWatch, Metabase, Grafana, ELK Stack  
 **FinOps:** Cost optimization, Resource management, AWS Cost Explorer  
