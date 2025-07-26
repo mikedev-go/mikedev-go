@@ -174,6 +174,20 @@
 
 ---
 
+### 🔹 **Analista Técnico**
+**Canvia** | *2018 - 2019*
+
+**Responsabilidades:**
+- 🔧 **Trabajé en diversos proyectos y roles** abarcando desarrollo, calidad, análisis funcional y liderazgo técnico
+- 👥 **Participé en entrevistas técnicas** y eventos corporativos de la empresa
+- 🚀 **Destaqué por flexibilidad** para adaptarme rápidamente a nuevas tecnologías
+- 💡 **Propuse soluciones innovadoras** en beneficio del equipo y la organización
+- 🏗️ **Implementé soluciones** en múltiples tecnologías y plataformas cloud
+
+**Stack:** C#, WCF, MVC4, Microsoft SQL Server, IIS, SoapUI, JMeter, Application Insights, Selenium, React, Ant Design, Redux, Node.js, Azure PaaS, IBM Watson, AWS PaaS, PostgreSQL
+
+---
+
 ### 🔹 **Desarrollador de Sistemas Senior**
 **Enotria** | *2014 - 2018*
 
