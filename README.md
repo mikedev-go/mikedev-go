@@ -112,8 +112,14 @@
 - ☁️ **Orquesté entornos en AWS Fargate**, gestionando redes seguras con **VPC**, balanceo de carga, **API Gateway**, y almacenamiento distribuido en **S3** y **CloudFront**
 - ⚡ **Automatizé flujos serverless** mediante **AWS Lambda**, **Lambda@Edge**, **Step Functions**, **EventBridge**, **SNS** y **SQS**, habilitando integración entre servicios desacoplados
 
+**Analytics & Business Intelligence:**
+- 📊 **Implementé Metabase end-to-end** desde infraestructura hasta dashboards, incluyendo configuración de servidores, base de datos y conectividad
+- 🗄️ **Diseñé arquitectura de data warehouse** con instancias de lectura optimizadas para consultas analíticas y reporting
+- ⚡ **Optimicé performance de base de datos** mediante diseño de índices estratégicos y estructuras de tablas para consultas complejas
+- 📈 **Desarrollé métricas personalizadas** con SQL avanzado para KPIs de negocio, dashboards operativos y reportes ejecutivos
+
 **Monitoreo y DevOps:**
-- 📊 **Implementé alertas proactivas** con **CloudWatch Alarms** y monitoreo de rendimiento con **New Relic** y **Metabase**
+- 🔍 **Implementé alertas proactivas** con **CloudWatch Alarms** y monitoreo de rendimiento integrando **New Relic** con **Metabase**
 - 🚀 **Gestioné despliegues continuos** con **GitHub Actions**, controlando permisos y seguridad mediante **IAM Roles**, y optimizando costos bajo prácticas **FinOps**
 
 **Desarrollo Full Stack:**
@@ -124,7 +130,7 @@
 - 💬 **Implementé integración con WhatsApp Business API**, incluyendo creación de cuentas, configuración de números, y flujos de automatización para notificaciones y soporte conversacional
 - 🤖 **Desarrollé aplicaciones con OpenAI API**, creando flujos de generación de contenido mediante **prompts dinámicos** y herramientas personalizadas (**tools**) con base de conocimientos contextuales
 
-**Stack:** AWS Fargate, VPC, CloudFront, S3, API Gateway, RDS Aurora, Route 53, Lambda, Lambda@Edge, Step Functions, EventBridge, SQS, SNS, DynamoDB, Terraform, GitHub Actions, IAM, CloudWatch Alarms, ECR, Amplify, Metabase, New Relic, FinOps, Node.js, Python, FastAPI, Pydantic, Golang, Fiber, React, WhatsApp Business API, OpenAI API, Prompt Engineering
+**Stack:** AWS Fargate, VPC, CloudFront, S3, API Gateway, RDS Aurora, Route 53, Lambda, Lambda@Edge, Step Functions, EventBridge, SQS, SNS, DynamoDB, Terraform, GitHub Actions, IAM, CloudWatch Alarms, ECR, Amplify, Metabase, New Relic, FinOps, Node.js, Python, FastAPI, Pydantic, Golang, Fiber, React, WhatsApp Business API, OpenAI API, Prompt Engineering, SQL, Data Warehouse, Database Optimization
 
 ---
 
