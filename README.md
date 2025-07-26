@@ -131,13 +131,32 @@
 ### 🔹 **Backend Developer AWS Senior**
 **Culqi** | *2023 - 2024*
 
-**Logros principales:**
-- 🏗️ Implementé **microservicios con arquitectura orientada a eventos**
-- 📊 Cumplí **estándares organizacionales** de cobertura y calidad de código
-- 🛡️ Participé en **proyecto de Gestión de Fraudes y Disputas**
-- 🔧 Implementé **testing automatizado** y documentación técnica
+**Sistema de Procesamiento de Alertas y Fraudes:**
+- 🔄 **Implementé flujo de jobs automatizado** para consumir archivos de diferentes fuentes conteniendo alertas y fraudes de transacciones financieras
+- ⚙️ **Desarrollé microservicios jobs** containerizados que procesan archivos mediante eventos y ejecución por línea de comandos, garantizando escalabilidad y aislamiento
+- 🛡️ **Construí sistema de gestión integral** permitiendo al equipo de alertas y fraudes administrar eficientemente los casos detectados
 
-**Stack:** TypeScript, Jest, Serverless Framework, KoaJS, Docker, AWS (ECR, ECS, Lambda, Aurora PostgreSQL)
+**Arquitectura de Microservicios & Jobs:**
+- 🐳 **Diseñé microservicios containerizados** con Docker que procesan archivos de alertas/fraudes de forma asíncrona y distribuida
+- ⚡ **Implementé sistema de eventos** para disparar jobs de procesamiento automáticamente ante llegada de nuevos archivos
+- 🔧 **Configuré ejecución por línea de comandos** optimizando recursos y permitiendo procesamiento batch eficiente
+
+**Backend & API Development:**
+- 🌐 **Desarrollé backend robusto con Koa.js** exponiendo APIs RESTful para gestión de alertas, fraudes y consulta de casos procesados
+- 📊 **Integré pipeline de datos** desde procesamiento de archivos hasta exposición en interfaces de gestión para equipos operativos
+- 🔗 **Implementé arquitectura orientada a eventos** coordinando flujo entre jobs de procesamiento y sistema de gestión
+
+**Calidad & Estándares Organizacionales:**
+- 📋 **Cumplí estándares organizacionales** de cobertura y calidad de código mediante implementación rigurosa de testing automatizado
+- ✅ **Desarrollé suite de pruebas unitarias** con Jest asegurando confiabilidad en procesamiento de archivos críticos financieros
+- 📚 **Documenté arquitectura y procesos** facilitando mantenimiento y cumplimiento de políticas de desarrollo
+
+**Impacto en Operaciones:**
+- 📈 **Automatizé procesamiento manual** de archivos de alertas/fraudes, reduciendo tiempo operativo y errores humanos
+- 🎯 **Mejoré eficiencia del equipo** al proporcionar herramientas centralizadas de gestión de casos
+- 🚀 **Escalé capacidad de procesamiento** mediante arquitectura de microservicios containerizados
+
+**Stack:** Node.js, Koa.js, TypeScript, Jest, Docker, AWS (ECR, ECS, Lambda, Aurora PostgreSQL), Event-Driven Architecture, Microservicios, Procesamiento Batch, Serverless Framework
 
 ---
 
