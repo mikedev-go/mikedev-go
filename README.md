@@ -392,12 +392,6 @@
 - 📊 **Dashboard de métricas** con Metabase y New Relic
 - 🔧 **Arquitectura serverless** optimizada para FinOps
 
-### 🌱 **AppRiegoPe - Sistema de Riego Inteligente**
-**Stack:** React, AWS Amplify, AppSync, GraphQL, DynamoDB, Arduino  
-- 🤖 **Integración con Arduino** para automatización de riegos
-- 📊 **Sensores IoT** de humedad y temperatura
-- ☁️ **Arquitectura serverless** completamente en AWS
-- 📱 **Dashboard responsive** en tiempo real
 
 ### 🏦 **Sistema de Microservicios Financieros**
 **Stack:** Java, Spring Boot, AWS, Docker, Kubernetes  
@@ -444,17 +438,24 @@
 
 ---
 
-## 🎯 Objetivos Profesionales 2025
+## 🎯 Objetivos Profesionales 2025-2027
 
-- 🏥 **Liderar transformación digital en HealthTech** con interoperabilidad FHIR/HL7
-- 🤖 **Profundizar en AI/ML Engineering** para healthcare (patient matching, clinical decision support)
-- 🏗️ **Liderar iniciativas de arquitectura cloud-native** a escala empresarial
-- 💰 **Especialización en FinOps** para optimización de costos cloud
-- 🌱 **Contribuir más activamente** a proyectos open source en HealthTech
-- 📚 **Obtener certificaciones GCP Professional** y AWS Solutions Architect Professional
-- 👥 **Desarrollar y mentorar** equipos de alto rendimiento
-- 🗣️ **Participar como speaker** en conferencias sobre HealthTech y AI
-- 🔬 **Investigar tecnologías emergentes** como WebAssembly y Edge Computing en salud
+### **🏗️ Consolidación como Arquitecto Cloud & Software (2025-2026)**
+- 🏆 **Transicionar a rol de Solutions Architect** liderando diseño de arquitecturas cloud-native a escala empresarial
+- 📚 **Obtener certificaciones de arquitecto**: AWS Solutions Architect Professional y GCP Professional Cloud Architect
+- 🎯 **Liderar diseño de 3+ arquitecturas complejas** en FinTech/Enterprise con impacto en 100K+ usuarios
+- 💡 **Establecer frameworks de arquitectura** y estándares técnicos como referente en la organización
+
+### **🗣️ Inglés Avanzado para Crecimiento Internacional (2025)**
+- 📈 **Alcanzar nivel C1 certificado** mediante examen Cambridge o TOEFL para oportunidades globales
+- 🎤 **Participar como speaker** en conferencias internacionales de tecnología (AWS re:Invent, Google Cloud Next)
+- 💼 **Habilitar oportunidades** de trabajo remoto con empresas tier-1 globales
+- 📚 **Consumir contenido técnico** en inglés (documentación, papers, podcasts) como parte de desarrollo continuo
+
+### **🤖 Especialización en AI/ML Engineering (2025-2026)**
+- 🧠 **Profundizar en Machine Learning Engineering** para sistemas de producción y MLOps
+- 🔬 **Implementar soluciones de AI** en arquitecturas distribuidas y edge computing
+- 📊 **Desarrollar expertise en LLMs** y sistemas de recomendación a gran escala
 
 ---
 
