@@ -85,18 +85,22 @@
 **Rimac Seguros** | *Marzo 2025 - Actualidad (Remoto)*
 
 **Arquitectura Healthcare & Interoperabilidad:**
-- 🏥 **Diseñé e implementé integraciones backend** en el ecosistema **Google Cloud Platform (GCP)** usando **Cloud Run** y **Application Integrations**, automatizando flujos clínicos y administrativos
-- 🔗 **Construí microservicios desacoplados** en **NestJS**, **FastAPI** y **Node.js** para interoperabilidad con sistemas de salud basados en **FHIR**, trabajando con recursos como Person, Patient, RelatedPerson, Coverage y Encounter
+- 🏥 **Diseñé e implementé integraciones backend** en el ecosistema **Google Cloud Platform (GCP)** usando **Cloud Run**, **Application Integrations** y **Cloud Storage**, automatizando flujos clínicos y administrativos
+- 🔗 **Construí microservicios desacoplados** en **NestJS**, **FastAPI**, **Node.js** y **Go** para interoperabilidad con sistemas de salud basados en **FHIR**, trabajando con recursos como Person, Patient, RelatedPerson, Coverage y Encounter
 - 📋 **Implementé procesamiento e intercambio** de mensajes clínicos usando **HL7 v2**, facilitando la interoperabilidad entre sistemas hospitalarios y aseguradoras
 
 **AI & Machine Learning para Healthcare:**
 - 🤖 **Desarrollé lógica avanzada de emparejamiento** e identificación de pacientes usando **Splink** para deduplicación y **Gemini Embeddings** para validación semántica, **reduciendo falsos positivos en más del 80%**
 
 **Infraestructura & Seguridad:**
-- 🔐 **Configuré almacenamiento estructurado** de datos clínicos en **FireStorage** y expuse APIs seguras mediante **ApiGee**, garantizando cumplimiento de políticas de acceso y auditoría
-- ⚖️ **Establecí balanceadores de carga**, **health checks** y escalamiento automático en servicios críticos, asegurando alta disponibilidad
+- 🔐 **Configuré almacenamiento estructurado** de datos clínicos en **FireStore** y **Cloud Storage**, exponiendo APIs seguras mediante **ApiGee** con cumplimiento de políticas de acceso y auditoría
+- ⚖️ **Establecí balanceadores de carga (Load Balancing)**, **health checks** y escalamiento automático en **Cloud Run**, asegurando alta disponibilidad para servicios críticos
 
-**Stack:** GCP, Cloud Run, Application Integrations, FireStorage, ApiGee, NestJS, Node.js, FastAPI, Python, FHIR (Person, Patient, RelatedPerson, Coverage, Encounter), HL7 v2, Splink, Gemini Embeddings, Load Balancing
+**Metodologías & Testing:**
+- 🎨 **Apliqué metodología First Design** para el desarrollo de APIs y interfaces de usuario, priorizando la experiencia del desarrollador
+- 📋 **Participé en la documentación de pruebas** utilizando **Zephyr Scale**, estableciendo casos de prueba y reportes de calidad para sistemas healthcare
+
+**Stack:** GCP (Cloud Run, Application Integrations, Cloud Storage, FireStore, ApiGee, Load Balancing), NestJS, Node.js, FastAPI, Python, Go, FHIR (Person, Patient, RelatedPerson, Coverage, Encounter), HL7 v2, Splink, Gemini Embeddings, First Design, Zephyr Scale
 
 ---
 
