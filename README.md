@@ -46,9 +46,11 @@
 ![Fiber](https://img.shields.io/badge/-Fiber-00ADD8?logo=go&logoColor=white&style=for-the-badge)
 
 ### ☁️ Cloud Platforms
-![AWS](https://img.shields.io/badge/-AWS-FF9900?logo=amazonaws&logoColor=white&style=for-the-badge)
-![Google Cloud](https://img.shields.io/badge/-GCP-4285F4?logo=googlecloud&logoColor=white&style=for-the-badge)
-![Azure](https://img.shields.io/badge/-Azure-0078D4?logo=microsoftazure&logoColor=white&style=for-the-badge)
+![AWS](https://img.shields.io/badge/-Amazon%20AWS-FF9900?logo=amazonaws&logoColor=white&style=for-the-badge)
+![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?logo=googlecloud&logoColor=white&style=for-the-badge)
+![Microsoft Azure](https://img.shields.io/badge/-Microsoft%20Azure-0078D4?logo=microsoftazure&logoColor=white&style=for-the-badge)
+![Vercel](https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=white&style=for-the-badge)
+![Heroku](https://img.shields.io/badge/-Heroku-430098?logo=heroku&logoColor=white&style=for-the-badge)
 
 ### 🛠️ DevOps & Infrastructure
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
