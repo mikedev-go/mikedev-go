@@ -378,45 +378,6 @@
 
 ---
 
-## 🌟 Proyectos Destacados
-
-### 🏥 **Healthcare Interoperability Platform**
-**Stack:** GCP Cloud Run, FHIR, HL7 v2, NestJS, FastAPI, Splink, Gemini Embeddings, ApiGee  
-- 🔗 **Interoperabilidad FHIR** con recursos clínicos estándar (Patient, Encounter, Coverage)
-- 📋 **Procesamiento HL7 v2** para intercambio entre sistemas hospitalarios
-- 🤖 **AI para matching de pacientes** con Splink y Gemini Embeddings (**80% reducción de falsos positivos**)
-- 🔐 **APIs seguras** con ApiGee y cumplimiento de normativas healthcare
-- ⚖️ **Alta disponibilidad** con load balancing y health checks automatizados
-
-### 🤖 **AI-Powered Business Automation Platform**
-**Stack:** OpenAI API, Python FastAPI, Node.js, WhatsApp Business API, AWS Lambda  
-- 🧠 **Implementación de base de conocimientos** contextuales
-- 💬 **Integración completa con WhatsApp Business** para automatización conversacional
-- ⚡ **Prompt Engineering avanzado** con herramientas personalizadas (tools)
-- 📊 **Dashboard de métricas** con Metabase y New Relic
-- 🔧 **Arquitectura serverless** optimizada para FinOps
-
-
-### 🏦 **Sistema de Microservicios Financieros**
-**Stack:** Java, Spring Boot, AWS, Docker, Kubernetes  
-- 🏗️ **Arquitectura distribuida** con 15+ microservicios
-- 💳 **Procesamiento de transacciones** de alto volumen
-- 🛡️ **Cumplimiento PCI-DSS** y estándares financieros
-- 📈 **SLA del 99.9%** de disponibilidad
-
----
-
-## 🏆 Logros Profesionales Destacados
-
-- 📈 **Incrementé eficiencia operativa en 40%** mediante integración de APIs
-- 🚀 **Reduje tiempo de despliegue en 70%** con automatización CI/CD
-- 📊 **Implementé monitoreo proactivo** reduciendo MTTR en 60%
-- 💰 **Generé ahorros significativos** optimizando procesos de mailing
-- 🔧 **Migré exitosamente** aplicaciones monolíticas a microservicios
-- 👥 **Lideré equipos técnicos** en múltiples organizaciones
-
----
-
 ## 📚 Certificados Técnicos Adicionales
 
 **HackerRank Certifications:**
@@ -439,27 +400,6 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=migelbaez&show_icons=true&theme=dark&count_private=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=migelbaez&layout=compact&theme=dark)
-
----
-
-## 🎯 Objetivos Profesionales 2025-2027
-
-### **🏗️ Consolidación como Arquitecto Cloud & Software (2025-2026)**
-- 🏆 **Transicionar a rol de Solutions Architect** liderando diseño de arquitecturas cloud-native a escala empresarial
-- 📚 **Obtener certificaciones de arquitecto**: AWS Solutions Architect Professional y GCP Professional Cloud Architect
-- 🎯 **Liderar diseño de 3+ arquitecturas complejas** en FinTech/Enterprise con impacto en 100K+ usuarios
-- 💡 **Establecer frameworks de arquitectura** y estándares técnicos como referente en la organización
-
-### **🗣️ Inglés Avanzado para Crecimiento Internacional (2025)**
-- 📈 **Alcanzar nivel C1 certificado** mediante examen Cambridge o TOEFL para oportunidades globales
-- 🎤 **Participar como speaker** en conferencias internacionales de tecnología (AWS re:Invent, Google Cloud Next)
-- 💼 **Habilitar oportunidades** de trabajo remoto con empresas tier-1 globales
-- 📚 **Consumir contenido técnico** en inglés (documentación, papers, podcasts) como parte de desarrollo continuo
-
-### **🤖 Especialización en AI/ML Engineering (2025-2026)**
-- 🧠 **Profundizar en Machine Learning Engineering** para sistemas de producción y MLOps
-- 🔬 **Implementar soluciones de AI** en arquitecturas distribuidas y edge computing
-- 📊 **Desarrollar expertise en LLMs** y sistemas de recomendación a gran escala
 
 ---
 
