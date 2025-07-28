@@ -90,7 +90,7 @@
 
 **Arquitectura Healthcare & Interoperabilidad:**
 - 🏥 **Diseñé e implementé integraciones backend** en el ecosistema **Google Cloud Platform (GCP)** usando **Cloud Run**, **Application Integrations** y **Cloud Storage**, automatizando flujos clínicos y administrativos
-- 🔗 **Construí microservicios desacoplados** en **NestJS**, **FastAPI**, **Node.js** y **Go** para interoperabilidad con sistemas de salud basados en **FHIR**, trabajando con recursos como Person, Patient, RelatedPerson, Coverage y Encounter
+- 🔗 **Construí microservicios desacoplados** en **NestJS**, **FastAPI** y **Node.js** para interoperabilidad con sistemas de salud basados en **FHIR**, trabajando con recursos como Person, Patient, RelatedPerson, Coverage y Encounter
 - 📋 **Implementé procesamiento e intercambio** de mensajes clínicos usando **HL7 v2**, facilitando la interoperabilidad entre sistemas hospitalarios y aseguradoras
 
 **AI & Machine Learning para Healthcare:**
