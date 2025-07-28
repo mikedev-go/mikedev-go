@@ -104,7 +104,7 @@
 - 🎨 **Apliqué metodología First Design** para el desarrollo de APIs y interfaces de usuario, priorizando la experiencia del desarrollador
 - 📋 **Participé en la documentación de pruebas** utilizando **Zephyr Scale**, estableciendo casos de prueba y reportes de calidad para sistemas healthcare
 
-**Stack:** GCP (Cloud Run, Application Integrations, Cloud Storage, FireStore, ApiGee, Load Balancing), NestJS, Node.js, FastAPI, Python, Go, FHIR (Person, Patient, RelatedPerson, Coverage, Encounter), HL7 v2, Splink, Gemini Embeddings, First Design, Zephyr Scale
+**Stack:** GCP (Cloud Run, Application Integrations, Cloud Storage, FireStore, ApiGee, Load Balancing), NestJS, Node.js, FastAPI, Python, FHIR (Person, Patient, RelatedPerson, Coverage, Encounter), HL7 v2, Splink, Gemini Embeddings, First Design, Zephyr Scale
 
 ---
 
