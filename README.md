@@ -134,7 +134,7 @@ Skills: `Node.js`, `Serverless Framework`, `AWS Lambda`, `API Gateway`, `Step Fu
 
 ---
 
-[<img align="left" height="65px" width="65px" src="https://raw.githubusercontent.com/mikedev-go/mikedev-go/main/assets/canvia.png"/>](https://www.rimac.com/)
+[<img align="left" height="65px" width="65px" src="https://raw.githubusercontent.com/mikedev-go/mikedev-go/main/assets/canvia-c.png"/>](https://www.rimac.com/)
 
 **Analista Técnico & Líder Técnico** \
 **Canvia** • Full-time • 2018 - 2019 • _**1 año**_ \
