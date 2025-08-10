@@ -102,7 +102,7 @@ Skills: `AWS Fargate`, `Terraform`, `RDS Aurora`, `API Gateway`, `CloudFront`, `
 
 ---
 
-[<img align="left" height="65px" width="65px" src="https://raw.githubusercontent.com/mikedev-go/mikedev-go/main/assets/rimac.png"/>](https://www.rimac.com/)
+[<img align="left" height="65px" width="65px" src="https://raw.githubusercontent.com/mikedev-go/mikedev-go/main/assets/culqi.png"/>](https://www.rimac.com/)
 
 **Backend Developer AWS Senior** \
 **Culqi** • Full-time • 2023 - 2024 • _**1 año**_ \
@@ -110,7 +110,7 @@ Skills: `Node.js`, `Koa.js`, `TypeScript`, `AWS`, `Event-Driven Architecture`, `
 
 ---
 
-[<img align="left" height="65px" width="65px" src="https://raw.githubusercontent.com/mikedev-go/mikedev-go/main/assets/rimac.png"/>](https://www.rimac.com/)
+[<img align="left" height="65px" width="65px" src="https://raw.githubusercontent.com/mikedev-go/mikedev-go/main/assets/niubiz.png"/>](https://www.rimac.com/)
 
 **Tech Owner** \
 **Niubiz (Visa)** • Full-time • 2022 - 2023 • _**1 año**_ \
@@ -118,7 +118,7 @@ Skills: `Java`, `Spring Boot`, `Node.js`, `NestJS`, `PostgreSQL`, `DynamoDB`, `K
 
 ---
 
-[<img align="left" height="65px" width="65px" src="https://raw.githubusercontent.com/mikedev-go/mikedev-go/main/assets/rimac.png"/>](https://www.rimac.com/)
+[<img align="left" height="65px" width="65px" src="https://raw.githubusercontent.com/mikedev-go/mikedev-go/main/assets/pagoefectivo.png"/>](https://www.rimac.com/)
 
 **Backend Developer AWS Senior** \
 **Pago Efectivo (Paysafe Company)** • Full-time • 2021 - 2022 • _**1 año**_ \
