@@ -85,260 +85,70 @@
 
 ## 💼 Experiencia Profesional Destacada
 
-### 🔹 **Analista Técnico Backend Senior** 
-**Rimac Seguros** | *Marzo 2025 - Actualidad (Remoto)*
+## 💼 Experiencia Profesional
 
-**Arquitectura Healthcare & Interoperabilidad:**
-- 🏥 **Diseñé e implementé integraciones backend** en el ecosistema **Google Cloud Platform (GCP)** usando **Cloud Run**, **Application Integrations** y **Cloud Storage**, automatizando flujos clínicos y administrativos
-- 🔗 **Construí microservicios desacoplados** en **NestJS**, **FastAPI** y **Node.js** para interoperabilidad con sistemas de salud basados en **FHIR**, trabajando con recursos como Person, Patient, RelatedPerson, Coverage y Encounter
-- 📋 **Implementé procesamiento e intercambio** de mensajes clínicos usando **HL7 v2**, facilitando la interoperabilidad entre sistemas hospitalarios y aseguradoras
+<img align="left" height="65px" width="65px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Rimac_Seguros_logo.svg/320px-Rimac_Seguros_logo.svg.png"/>
 
-**AI & Machine Learning para Healthcare:**
-- 🤖 **Desarrollé lógica avanzada de emparejamiento** e identificación de pacientes usando **Splink** para deduplicación y **Gemini Embeddings** para validación semántica, **reduciendo falsos positivos en más del 80%**
-
-**Infraestructura & Seguridad:**
-- 🔐 **Configuré almacenamiento estructurado** de datos clínicos en **FireStore** y **Cloud Storage**, exponiendo APIs seguras mediante **ApiGee** con cumplimiento de políticas de acceso y auditoría
-- ⚖️ **Establecí balanceadores de carga (Load Balancing)**, **health checks** y escalamiento automático en **Cloud Run**, asegurando alta disponibilidad para servicios críticos
-
-**Metodologías & Testing:**
-- 🎨 **Apliqué metodología First Design** para el desarrollo de APIs y interfaces de usuario, priorizando la experiencia del desarrollador
-- 📋 **Participé en la documentación de pruebas** utilizando **Zephyr Scale**, estableciendo casos de prueba y reportes de calidad para sistemas healthcare
-
-**Stack:** GCP (Cloud Run, Application Integrations, Cloud Storage, FireStore, ApiGee, Load Balancing), NestJS, Node.js, FastAPI, Python, FHIR (Person, Patient, RelatedPerson, Coverage, Encounter), HL7 v2, Splink, Gemini Embeddings, First Design, Zephyr Scale
+**Analista Técnico Backend Senior** \
+**Rimac Seguros** • Remoto • 03/2025 - Actualidad • _**En curso**_ \
+Skills: `GCP`, `Cloud Run`, `Application Integrations`, `Cloud Storage`, `NestJS`, `FastAPI`, `Node.js`, `FHIR`, `HL7 v2`, `Splink`, `Gemini Embeddings`
 
 ---
 
-### 🔹 **Cloud Specialist AWS & DevOps**
-**Impulse** | *Agosto 2024 - Febrero 2025 (Remoto)*
+<img align="left" height="65px" width="65px" src="https://impulse.com.pe/wp-content/uploads/2020/09/logo-impulse.png"/>
 
-**Arquitectura e Infraestructura:**
-- 🏗️ **Diseñé y desplegué IaC** para múltiples microservicios usando **Terraform**, automatizando ambientes AWS de forma reproducible y escalable
-- ☁️ **Orquesté entornos en AWS Fargate**, gestionando redes seguras con **VPC**, **balanceadores de carga**, **Route 53** para DNS, y almacenamiento distribuido en **S3** y **CloudFront**
-- 🗄️ **Configuré bases de datos** con **Aurora RDS** para alta disponibilidad y **ElastiCache** con **Val Keys** para optimización de performance y caching distribuido
-- 🔐 **Implementé infraestructura segura** con **Bastion hosts**, **AWS VPN** para conectividad privada y **Cloud Map** para service discovery entre microservicios
-- ⚡ **Automatizé flujos serverless** mediante **AWS Lambda**, **Lambda@Edge**, **Step Functions**, **EventBridge**, **Jobs**, **SNS** y **SQS**, habilitando integración entre servicios desacoplados
-- 🌐 **Configuré distribución global** con **API Gateway**, **CloudFront** para CDN y optimización de latencia a nivel mundial
-- 📈 **Implementé autoescaling inteligente** para microservicios y bases de datos, garantizando performance óptimo bajo diferentes cargas de trabajo
-- 💰 **Logré ahorro de costos superior al 50%** mediante supervisión continua, optimización de recursos y implementación de mejores prácticas **FinOps**
-
-**Analytics & Business Intelligence:**
-- 📊 **Implementé Metabase end-to-end** desde infraestructura hasta dashboards, incluyendo configuración de servidores, base de datos y conectividad
-- 🗄️ **Diseñé arquitectura de data warehouse** con instancias de lectura optimizadas para consultas analíticas y reporting
-- ⚡ **Optimicé performance de base de datos** mediante diseño de índices estratégicos y estructuras de tablas para consultas complejas
-- 📈 **Desarrollé métricas personalizadas** con SQL avanzado para KPIs de negocio, dashboards operativos y reportes ejecutivos
-
-**Monitoreo y DevOps:**
-- 🤖 **Configuré detección automática de anomalías** usando **CloudWatch Anomaly Detection** para identificar patrones inusuales en métricas de aplicaciones y infraestructura
-- 💬 **Establecí sistema de notificaciones** enviando alertas automáticas a **Slack** para respuesta inmediata del equipo ante incidentes y anomalías detectadas
-- 🚀 **Gestioné despliegues continuos** con **GitHub Actions**, controlando permisos y seguridad mediante **IAM Roles**, y optimizando costos bajo prácticas **FinOps**
-
-**Desarrollo Full Stack:**
-- 🔧 **Desarrollé microservicios backend** en **Node.js**, **Python (FastAPI + Pydantic)** y **Golang (Fiber)** para APIs de alto rendimiento y procesamiento concurrente
-- 🎨 **Participé en desarrollo frontend** en **React**, incluyendo dashboards operativos y visualización de métricas
-
-**Integraciones Avanzadas:**
-- 💬 **Implementé integración con WhatsApp Business API**, incluyendo creación de cuentas, configuración de números, y flujos de automatización para notificaciones y soporte conversacional
-- 🤖 **Desarrollé aplicaciones con OpenAI API**, creando flujos de generación de contenido mediante **prompts dinámicos** y herramientas personalizadas (**tools**) con base de conocimientos contextuales
-
-**Stack:** AWS (Fargate, VPC, CloudFront, S3, API Gateway, RDS Aurora, Route 53, Lambda, Lambda@Edge, Step Functions, EventBridge, SQS, SNS, DynamoDB, ElastiCache, Val Keys, Bastion, VPN, Cloud Map, Jobs, Autoescaling, CloudWatch Anomaly Detection), Terraform, GitHub Actions, IAM, CloudWatch Alarms, ECR, Amplify, Metabase, New Relic, FinOps, Node.js, Python, FastAPI, Pydantic, Golang, Fiber, React, WhatsApp Business API, OpenAI API, Prompt Engineering, SQL, Data Warehouse, Database Optimization, Slack Integrations
+**Cloud Specialist AWS & DevOps** \
+**Impulse** • Remoto • 08/2024 - 02/2025 • _**7 meses**_ \
+Skills: `AWS Fargate`, `Terraform`, `RDS Aurora`, `API Gateway`, `CloudFront`, `Lambda`, `Step Functions`, `EventBridge`, `FinOps`, `Node.js`, `Python`, `Golang`, `WhatsApp Business API`, `OpenAI API`
 
 ---
 
-### 🔹 **Backend Developer AWS Senior**
-**Culqi** | *2023 - 2024*
+<img align="left" height="65px" width="65px" src="https://culqi.com/wp-content/uploads/2021/06/logo-culqi.svg"/>
 
-**Sistema de Procesamiento de Alertas y Fraudes:**
-- 🔄 **Implementé flujo de jobs automatizado** para consumir archivos de diferentes fuentes conteniendo alertas y fraudes de transacciones financieras
-- ⚙️ **Desarrollé microservicios jobs** containerizados que procesan archivos mediante eventos y ejecución por línea de comandos, garantizando escalabilidad y aislamiento
-- 🛡️ **Construí sistema de gestión integral** permitiendo al equipo de alertas y fraudes administrar eficientemente los casos detectados
-
-**Arquitectura de Microservicios & Jobs:**
-- 🐳 **Diseñé microservicios containerizados** con Docker que procesan archivos de alertas/fraudes de forma asíncrona y distribuida
-- ⚡ **Implementé sistema de eventos** para disparar jobs de procesamiento automáticamente ante llegada de nuevos archivos
-- 🔧 **Configuré ejecución por línea de comandos** optimizando recursos y permitiendo procesamiento batch eficiente
-
-**Backend & API Development:**
-- 🌐 **Desarrollé backend robusto con Koa.js** exponiendo APIs RESTful para gestión de alertas, fraudes y consulta de casos procesados
-- 📊 **Integré pipeline de datos** desde procesamiento de archivos hasta exposición en interfaces de gestión para equipos operativos
-- 🔗 **Implementé arquitectura orientada a eventos** coordinando flujo entre jobs de procesamiento y sistema de gestión
-
-**Calidad & Estándares Organizacionales:**
-- 📋 **Cumplí estándares organizacionales** de cobertura y calidad de código mediante implementación rigurosa de testing automatizado
-- ✅ **Desarrollé suite de pruebas unitarias** con Jest asegurando confiabilidad en procesamiento de archivos críticos financieros
-- 📚 **Documenté arquitectura y procesos** facilitando mantenimiento y cumplimiento de políticas de desarrollo
-
-**Impacto en Operaciones:**
-- 📈 **Automatizé procesamiento manual** de archivos de alertas/fraudes, reduciendo tiempo operativo y errores humanos
-- 🎯 **Mejoré eficiencia del equipo** al proporcionar herramientas centralizadas de gestión de casos
-- 🚀 **Escalé capacidad de procesamiento** mediante arquitectura de microservicios containerizados
-
-**Stack:** Node.js, Koa.js, TypeScript, Jest, Docker, AWS (ECR, ECS, Lambda, Aurora PostgreSQL), Event-Driven Architecture, Microservicios, Procesamiento Batch, Serverless Framework
+**Backend Developer AWS Senior** \
+**Culqi** • Full-time • 2023 - 2024 • _**1 año**_ \
+Skills: `Node.js`, `Koa.js`, `TypeScript`, `AWS`, `Event-Driven Architecture`, `Jest`, `Docker`
 
 ---
 
-### 🔹 **Tech Owner - Soluciones de Procesamiento**
-**Niubiz (Visa)** | *2022 - 2023*
+<img align="left" height="65px" width="65px" src="https://www.niubiz.com.pe/sites/all/themes/niubiz/logo.png"/>
 
-**Liderazgo Técnico & Gestión:**
-- 👥 **Lideré equipo multidisciplinario** de 4 desarrolladores en rol híbrido de backend, cloud specialist y gestión de proyectos ágiles
-- 🎯 **Coordiné entrevistas técnicas** y procesos de hiring para fortalecer capacidades del equipo
-- 🚀 **Gestioné pases a producción** siguiendo estándares de calidad y compliance financiero para sistemas de alta criticidad
-
-**Proyectos de Pagos de Alta Transaccionalidad:**
-- 💳 **Code Management**: Desarrollé sistema de gestión de códigos de pago integrando **Pago Efectivo**, **BCP** y **BBVA** para procesamiento masivo de transacciones
-- 📱 **VendeMás - Recargas y Servicios**: Implementé funcionalidades para habilitar pagos de recargas telefónicas y servicios, optimizando el flujo transaccional
-- 🏪 **Backend Transaccional POS**: Diseñé canal alternativo para transacciones de POS, mejorando escalabilidad y performance del ecosistema de pagos
-- 📊 **Sistemas de Conciliación**: Desarrollé procesos automatizados de conciliación bancaria para garantizar integridad transaccional
-
-**Arquitectura Distribuida & Blockchain:**
-- ⛓️ **Implementé soluciones con Hyperledger Fabric** para trazabilidad y auditoría de transacciones financieras
-- 🔄 **Configuré event streaming** con **Kafka** y **Kinesis** para procesamiento en tiempo real de eventos transaccionales
-- ☁️ **Orquesté microservicios** en **EKS** y **Kubernetes** asegurando alta disponibilidad y escalabilidad automática
-
-**Infraestructura & Monitoreo:**
-- 🗄️ **Optimicé bases de datos** usando **PostgreSQL** para transacciones ACID y **DynamoDB** para consultas de alta velocidad
-- 📊 **Implementé alertas y monitoreo** con **New Relic** para observabilidad de aplicaciones críticas y detección proactiva de incidentes
-- 🏗️ **Diseñé arquitectura híbrida** combinando servicios AWS nativos con soluciones blockchain para compliance regulatorio
-
-**Stack:** Java, Spring Boot, Node.js, NestJS, React, PostgreSQL, DynamoDB, AWS Hyperledger Fabric, Kafka, Kinesis, AWS (API Gateway, Lambda, EKS), Docker, Kubernetes, New Relic, Sistemas de Conciliación, Event Streaming
+**Tech Owner** \
+**Niubiz (Visa)** • Full-time • 2022 - 2023 • _**1 año**_ \
+Skills: `Java`, `Spring Boot`, `Node.js`, `NestJS`, `PostgreSQL`, `DynamoDB`, `Kafka`, `Kinesis`, `EKS`, `Kubernetes`, `Hyperledger Fabric`, `New Relic`
 
 ---
 
-### 🔹 **Backend Developer AWS Senior**
-**Pago Efectivo (Paysafe Company)** | *2021 - 2022*
+<img align="left" height="65px" width="65px" src="https://pagoefectivo.pe/pe/wp-content/uploads/2020/08/logo.svg"/>
 
-**Migración Arquitectónica Critical:**
-- 🔄 **Lideré migración completa** de monolito **.NET Framework** en **IIS/EC2** hacia **microservicios .NET Core** en **AWS Fargate**, transformando la capacidad de escalabilidad del sistema
-- 🏗️ **Implementé arquitectura hexagonal** con puertos y adaptadores para garantizar desacoplamiento y mantenibilidad de microservicios críticos
-- ⚡ **Mejoré significativamente tiempos de respuesta** y **eliminé bloqueos de base de datos** que limitaban la concurrencia del sistema legacy
-
-**Microservicios del Ecosistema de Pagos:**
-- 💳 **Generación de Códigos de Pago**: Desarrollé servicio para crear códigos únicos de transacción con alta disponibilidad
-- 🔍 **Consulta de Estados**: Implementé API de consulta optimizada para verificación de status de códigos en tiempo real
-- 🏦 **Recepción Multi-Canal**: Construí servicio para procesar pagos de múltiples bancos (**BCP**, **BBVA**, **ScotiaBank**, **Kafnet**) con adaptadores específicos
-- ❌ **Anulación de Pagos**: Desarrollé API para gestión de reversos y anulaciones siguiendo normativas financieras
-
-**Infraestructura & DevOps:**
-- ☁️ **Migré a AWS Fargate** eliminando dependencia de servidores físicos y habilitando auto-scaling automático
-- 🔧 **Optimicé CI/CD con Jenkins** implementando pipelines independientes por microservicio para deployments más ágiles
-- 🗄️ **Resolví problemas de concurrencia** en **Microsoft SQL Server** mediante optimización de queries y arquitectura distribuida
-
-**Compliance & Seguridad:**
-- 🛡️ **Aseguré cumplimiento de estándares** financieros y normativas de seguridad para procesamiento de pagos
-- 🔐 **Implementé patrones de seguridad** específicos para integración con entidades bancarias del ecosistema peruano
-
-**Impacto en el Negocio:**
-- 📈 **Habilitó escalabilidad** para soportar el crecimiento exponencial de Pago Efectivo durante expansión del mercado
-- 🚀 **Aceleró time-to-market** para integración de nuevos canales bancarios mediante arquitectura modular
-- ⚖️ **Eliminó cuellos de botella** que limitaban la capacidad transaccional del sistema legacy
-
-**Stack:** .NET Core, .NET Framework, Microsoft SQL Server, AWS (Fargate, EC2, EKS, ECR, Lambda), Docker, Jenkins, Arquitectura Hexagonal, Microservicios, Integración Bancaria
+**Backend Developer AWS Senior** \
+**Pago Efectivo (Paysafe Company)** • Full-time • 2021 - 2022 • _**1 año**_ \
+Skills: `.NET Core`, `AWS Fargate`, `Microservices`, `SQL Server`, `Docker`, `Jenkins`, `Arquitectura Hexagonal`
 
 ---
 
-### 🔹 **Backend Developer AWS Senior**
-**Rimac Seguros** | *2020 - 2021*
+<img align="left" height="65px" width="65px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Rimac_Seguros_logo.svg/320px-Rimac_Seguros_logo.svg.png"/>
 
-**Seguros Vehiculares & Digitalización:**
-- 🚗 **Desarrollé soluciones para seguros vehiculares** implementando APIs para cotización, emisión y gestión de pólizas automotrices
-- 🏗️ **Construí arquitectura serverless** con **AWS Lambda**, **API Gateway** y **Step Functions** para automatizar procesos críticos del negocio
-- 📋 **Integré con sistemas legacy Oracle** que contenían el core de pólizas de Rimac, creando adaptadores para comunicación híbrida
-
-**Procesos de Postventa:**
-- ❌ **Implementé sistema de anulación de pólizas** con workflow automatizado para validaciones, cálculos de devolución y procesos de aprobación
-- 🔄 **Desarrollé funcionalidades de renovación** automatizando notificaciones, cálculo de nuevas primas y gestión de ciclo de vida de pólizas
-- ⚡ **Orquesté procesos complejos** usando **Step Functions** para workflows multi-paso con validaciones de negocio y integraciones
-
-**Arquitectura & Performance:**
-- ☁️ **Diseñé arquitectura serverless escalable** con **Serverless Framework** optimizando costos y mejorando tiempos de respuesta
-- 🗄️ **Optimicé integración Oracle-AWS** implementando patrones eficientes para comunicación entre sistemas legacy y cloud-native
-- 📊 **Implementé monitoreo y observabilidad** con **CloudWatch** estableciendo métricas, dashboards y alertas para aplicaciones críticas
-
-**Testing & Calidad:**
-- 🔧 **Ejecuté testing de performance** con **JMeter** validando capacidad de carga y optimizando APIs críticas
-- 📈 **Mejoré performance de aplicaciones** reduciendo tiempos de respuesta y eliminando cuellos de botella en procesos de alta demanda
-
-**Impacto en el Negocio:**
-- 🚀 **Automatizé procesos manuales** de anulación y renovación, reduciendo tiempo operativo y errores humanos
-- 📱 **Habilitó digitalización** de servicios vehiculares mejorando experiencia del cliente y eficiencia operativa
-- ⚖️ **Optimizó workflows** de postventa permitiendo mejor gestión de cartera y satisfacción del cliente
-
-**Stack:** Node.js, Serverless Framework, Oracle, AWS (API Gateway, Lambda, Step Functions, DynamoDB, CloudWatch), JMeter, Seguros Vehiculares, Workflows de Postventa
+**Backend Developer AWS Senior** \
+**Rimac Seguros** • Full-time • 2020 - 2021 • _**1 año**_ \
+Skills: `Node.js`, `Serverless Framework`, `AWS Lambda`, `API Gateway`, `Step Functions`, `Oracle`, `CloudWatch`
 
 ---
 
-### 🔹 **Analista Técnico & Líder Técnico**
-**Canvia** | *2018 - 2019*
+<img align="left" height="65px" width="65px" src="https://canvia.com/wp-content/uploads/2020/09/logo.png"/>
 
-**Liderazgo Técnico & Gestión de Equipos:**
-- 👥 **Lideré equipo ágil** de 3 desarrolladores usando **metodología Scrum** para proyectos multisectoriales de alta complejidad
-- 🏗️ **Diseñé arquetipos y arquitecturas** end-to-end para soluciones empresariales en sectores telecomunicaciones, seguros y retail
-- 🎯 **Coordiné con stakeholders** del cliente gestionando requisitos técnicos y funcionales en proyectos críticos
-
-**Proyecto Chatbot con IA:**
-- 🤖 **Desarrollé chatbot empresarial** con **React**, **Ant Design**, **LoopBack**, **PostgreSQL** e **IBM Watson** para automatización de atención al cliente
-- 💬 **Implementé comunicación en tiempo real** usando **WebSockets** para experiencia conversacional fluida y responsiva
-- ☁️ **Desplegué solución completa** en **IBM Cloud** integrando servicios de IA con infraestructura escalable
-- 📊 **Logré automatización** de consultas frecuentes reduciendo carga operativa de agentes humanos
-
-**Roles Multidisciplinarios:**
-- 🔧 **Desarrollé soluciones full-stack** abarcando frontend (**React**, **Ant Design**, **Redux**), backend (**C#**, **Node.js**, **WCF**), y bases de datos (**SQL Server**, **PostgreSQL**)
-- 🧪 **Ejecuté testing integral** usando **Selenium**, **JMeter** y **SoapUI** para garantizar calidad en aplicaciones críticas
-- 📋 **Realicé análisis funcional** traduciendo requisitos de negocio en especificaciones técnicas detalladas
-
-**Innovación & Multi-Cloud:**
-- 💡 **Propuse soluciones innovadoras** integrando **IBM Watson** para casos de uso específicos de cada industria
-- ☁️ **Implementé arquitecturas híbridas** combinando **AWS PaaS**, **Azure PaaS** e **IBM Cloud** según necesidades del cliente
-- 📈 **Optimicé procesos** mediante **Application Insights** y monitoreo proactivo de aplicaciones
-
-**Gestión Corporativa:**
-- 👥 **Participé en entrevistas técnicas** para selección de talento y fortalecimiento de equipos de desarrollo
-- 🚀 **Destaqué por adaptabilidad** asimilando rápidamente nuevas tecnologías y metodologías según demandas del proyecto
-- 🏢 **Representé la empresa** en eventos corporativos y técnicos del sector
-
-**Impacto Multisectorial:**
-- 📱 **Desarrollé soluciones** para gestión de clientes y servicios en sector telecomunicaciones
-- 💄 **Implementé plataformas** de e-commerce y gestión de ventas para industria de venta directa
-- 🏥 **Construí sistemas** de cotización y gestión de pólizas para sector asegurador
-
-**Stack:** C#, WCF, MVC4, Node.js, React, Ant Design, Redux, LoopBack, Microsoft SQL Server, PostgreSQL, IIS, SoapUI, JMeter, Application Insights, Selenium, IBM Cloud, IBM Watson, AWS PaaS, Azure PaaS, WebSockets, Scrum
+**Analista Técnico & Líder Técnico** \
+**Canvia** • Full-time • 2018 - 2019 • _**1 año**_ \
+Skills: `React`, `LoopBack`, `Node.js`, `C#`, `SQL Server`, `PostgreSQL`, `IBM Watson`, `IBM Cloud`, `AWS`, `Azure`
 
 ---
 
-### 🔹 **Desarrollador de Sistemas Senior**
-**Enotria** | *2014 - 2018*
+<img align="left" height="65px" width="65px" src="https://www.enotria.com.pe/img/logo.png"/>
 
-**Optimización de Sistemas Masivos:**
-- 📈 **Logré crecimiento exponencial del sistema de mailing** aumentando capacidad de **100K a 1M envíos mensuales (1000% de incremento)** mediante optimización de arquitectura y base de datos
-- ⚡ **Resolví cuellos de botella críticos** en **MSSQL** y implementé **Windows Services** optimizados para procesamiento masivo y concurrente
-- 🔄 **Implementé **SignalR** para comunicación en tiempo real** mejorando la monitorización y gestión de campañas de mailing
+**Desarrollador de Sistemas Senior** \
+**Enotria** • Full-time • 2014 - 2018 • _**4 años**_ \
+Skills: `C#`, `ASP.NET MVC`, `SQL Server`, `SignalR`, `C++`, `Mifare`, `OMNIKEY SDK`, `Han's Laser SDK`
 
-**Sistemas de Transporte Inteligente:**
-- 💳 **Desarrollé integración con chips Mifare** para tarjetas de transporte público implementando **lectura automática de IDs** usando **OMNIKEY SDK**
-- 🏭 **Automaticé producción de tarjetas inteligentes** integrando **Han's Laser SDK** para grabado y personalización de tarjetas
-- 🔧 **Programé en C++** para comunicación directa con hardware especializado y optimización de performance en lectores de tarjetas
-
-**Innovación & Proyectos de Investigación:**
-- 💰 **Generé ahorros significativos** desarrollando soluciones propias en lugar de contratar consultorías externas, evitando gastos de **miles de soles** anuales
-- 🔬 **Lideré proyectos de I+D** creando soluciones innovadoras que se convirtieron en productos clave de la empresa
-- 🎯 **Implementé arquitectura escalable** que soportó el crecimiento exponencial sin necesidad de infraestructura adicional costosa
-
-**Desarrollo Full-Stack & Arquitectura:**
-- 🏗️ **Diseñé aplicaciones web** usando **ASP.NET MVC** para gestión y monitoreo de sistemas críticos
-- 📊 **Optimicé rendimiento de base de datos** con **Microsoft SQL Server** implementando índices estratégicos y consultas eficientes
-- 🔧 **Desarrollé Windows Services** para procesamiento en background y tareas automatizadas de alta disponibilidad
-
-**Liderazgo Técnico:**
-- 👥 **Lideré implementación de proyectos clave** coordinando equipos multidisciplinarios para delivery exitoso
-- 🚀 **Establecí estándares técnicos** y mejores prácticas que se adoptaron como metodología estándar en la empresa
-- 📈 **Transformé operaciones críticas** de procesos manuales a sistemas automatizados de alta eficiencia
-
-**Impacto en el Negocio:**
-- 🎯 **Habilitó crecimiento empresarial** mediante soluciones que escalaron 10x sin incremento proporcional en costos
-- 💡 **Estableció capacidades técnicas internas** reduciendo dependencia de proveedores externos
-- 🏆 **Posicionó a Enotria como referente** en soluciones de transporte inteligente y sistemas de comunicación masiva
-
-**Stack:** C#, ASP.NET MVC, Microsoft SQL Server, Windows Services, SignalR, C++, OMNIKEY SDK, Han's Laser SDK, Sistemas de Mailing Masivo, Chips Mifare, Hardware Integration
 
 ---
 
