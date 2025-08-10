@@ -83,7 +83,7 @@
 
 ---
 
-## 💼 Experiencia Profesional Destacada
+## Work experience
 
 [<img align="left" height="65px" width="65px" src="https://raw.githubusercontent.com/mikedev-go/mikedev-go/main/assets/rimac.png"/>](https://www.rimac.com/)
 
@@ -94,7 +94,7 @@ Skills: `GCP`, `Cloud Run`, `Application Integrations`, `Cloud Storage`, `NestJS
 
 ---
 
-<img align="left" height="65px" width="65px" src="https://impulse.com.pe/wp-content/uploads/2020/09/logo-impulse.png"/>
+[<img align="left" height="65px" width="65px" src="https://raw.githubusercontent.com/mikedev-go/mikedev-go/main/assets/rimac.png"/>](https://www.rimac.com/)
 
 **Cloud Specialist AWS & DevOps** \
 **Impulse** • Remoto • 08/2024 - 02/2025 • _**7 meses**_ \
@@ -102,7 +102,7 @@ Skills: `AWS Fargate`, `Terraform`, `RDS Aurora`, `API Gateway`, `CloudFront`, `
 
 ---
 
-<img align="left" height="65px" width="65px" src="https://culqi.com/wp-content/uploads/2021/06/logo-culqi.svg"/>
+[<img align="left" height="65px" width="65px" src="https://raw.githubusercontent.com/mikedev-go/mikedev-go/main/assets/rimac.png"/>](https://www.rimac.com/)
 
 **Backend Developer AWS Senior** \
 **Culqi** • Full-time • 2023 - 2024 • _**1 año**_ \
@@ -110,7 +110,7 @@ Skills: `Node.js`, `Koa.js`, `TypeScript`, `AWS`, `Event-Driven Architecture`, `
 
 ---
 
-<img align="left" height="65px" width="65px" src="https://www.niubiz.com.pe/sites/all/themes/niubiz/logo.png"/>
+[<img align="left" height="65px" width="65px" src="https://raw.githubusercontent.com/mikedev-go/mikedev-go/main/assets/rimac.png"/>](https://www.rimac.com/)
 
 **Tech Owner** \
 **Niubiz (Visa)** • Full-time • 2022 - 2023 • _**1 año**_ \
@@ -118,7 +118,7 @@ Skills: `Java`, `Spring Boot`, `Node.js`, `NestJS`, `PostgreSQL`, `DynamoDB`, `K
 
 ---
 
-<img align="left" height="65px" width="65px" src="https://pagoefectivo.pe/pe/wp-content/uploads/2020/08/logo.svg"/>
+[<img align="left" height="65px" width="65px" src="https://raw.githubusercontent.com/mikedev-go/mikedev-go/main/assets/rimac.png"/>](https://www.rimac.com/)
 
 **Backend Developer AWS Senior** \
 **Pago Efectivo (Paysafe Company)** • Full-time • 2021 - 2022 • _**1 año**_ \
@@ -126,7 +126,7 @@ Skills: `.NET Core`, `AWS Fargate`, `Microservices`, `SQL Server`, `Docker`, `Je
 
 ---
 
-<img align="left" height="65px" width="65px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Rimac_Seguros_logo.svg/320px-Rimac_Seguros_logo.svg.png"/>
+[<img align="left" height="65px" width="65px" src="https://raw.githubusercontent.com/mikedev-go/mikedev-go/main/assets/rimac.png"/>](https://www.rimac.com/)
 
 **Backend Developer AWS Senior** \
 **Rimac Seguros** • Full-time • 2020 - 2021 • _**1 año**_ \
@@ -134,7 +134,7 @@ Skills: `Node.js`, `Serverless Framework`, `AWS Lambda`, `API Gateway`, `Step Fu
 
 ---
 
-<img align="left" height="65px" width="65px" src="https://canvia.com/wp-content/uploads/2020/09/logo.png"/>
+[<img align="left" height="65px" width="65px" src="https://raw.githubusercontent.com/mikedev-go/mikedev-go/main/assets/rimac.png"/>](https://www.rimac.com/)
 
 **Analista Técnico & Líder Técnico** \
 **Canvia** • Full-time • 2018 - 2019 • _**1 año**_ \
@@ -142,7 +142,7 @@ Skills: `React`, `LoopBack`, `Node.js`, `C#`, `SQL Server`, `PostgreSQL`, `IBM W
 
 ---
 
-<img align="left" height="65px" width="65px" src="https://www.enotria.com.pe/img/logo.png"/>
+[<img align="left" height="65px" width="65px" src="https://raw.githubusercontent.com/mikedev-go/mikedev-go/main/assets/rimac.png"/>](https://www.rimac.com/)
 
 **Desarrollador de Sistemas Senior** \
 **Enotria** • Full-time • 2014 - 2018 • _**4 años**_ \
