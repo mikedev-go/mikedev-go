@@ -85,9 +85,8 @@
 
 ## 💼 Experiencia Profesional Destacada
 
-## 💼 Experiencia Profesional
+[<img align="left" height="65px" width="65px" src="https://raw.githubusercontent.com/mikedev-go/mikedev-go/main/assets/rimac.png"/>](https://www.rimac.com/)
 
-<img align="left" height="65px" width="65px" src="[https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Rimac_Seguros_logo.svg/320px-Rimac_Seguros_logo.svg.png](https://raw.githubusercontent.com/mikedev-go/mikedev-go/main/assets/rimac.png)"/>
 
 **Analista Técnico Backend Senior** \
 **Rimac Seguros** • Remoto • 03/2025 - Actualidad • _**En curso**_ \
