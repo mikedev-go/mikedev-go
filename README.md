@@ -88,7 +88,7 @@
 [<img align="left" height="65px" width="65px" src="https://raw.githubusercontent.com/mikedev-go/mikedev-go/main/assets/rimac.png"/>](https://www.rimac.com/)
 
 
-**Analista Técnico Backend Senior** \
+**Backend Developer GCP Senior** \
 **Rimac Seguros** • Remoto • 03/2025 - Actualidad • _**En curso**_ \
 Skills: `GCP`, `Cloud Run`, `Application Integrations`, `Cloud Storage`, `NestJS`, `FastAPI`, `Node.js`, `FHIR`, `HL7 v2`, `Splink`, `Gemini Embeddings`
 
@@ -112,7 +112,7 @@ Skills: `Node.js`, `Koa.js`, `TypeScript`, `AWS`, `Event-Driven Architecture`, `
 
 [<img align="left" height="65px" width="65px" src="https://raw.githubusercontent.com/mikedev-go/mikedev-go/main/assets/niubiz.png"/>](https://www.rimac.com/)
 
-**Tech Owner** \
+**Tech Lead** \
 **Niubiz (Visa)** • Full-time • 2022 - 2023 • _**1 año**_ \
 Skills: `Java`, `Spring Boot`, `Node.js`, `NestJS`, `PostgreSQL`, `DynamoDB`, `Kafka`, `Kinesis`, `EKS`, `Kubernetes`, `Hyperledger Fabric`, `New Relic`
 
@@ -136,7 +136,7 @@ Skills: `Node.js`, `Serverless Framework`, `AWS Lambda`, `API Gateway`, `Step Fu
 
 [<img align="left" height="65px" width="65px" src="https://raw.githubusercontent.com/mikedev-go/mikedev-go/main/assets/canvia-c.png"/>](https://www.rimac.com/)
 
-**Analista Técnico & Líder Técnico** \
+**FullStack Developer Senior** \
 **Canvia** • Full-time • 2018 - 2019 • _**1 año**_ \
 Skills: `React`, `LoopBack`, `Node.js`, `C#`, `SQL Server`, `PostgreSQL`, `IBM Watson`, `IBM Cloud`, `AWS`, `Azure`
 
@@ -144,7 +144,7 @@ Skills: `React`, `LoopBack`, `Node.js`, `C#`, `SQL Server`, `PostgreSQL`, `IBM W
 
 [<img align="left" height="65px" width="65px" src="https://raw.githubusercontent.com/mikedev-go/mikedev-go/main/assets/enotria.png"/>](https://www.rimac.com/)
 
-**Desarrollador de Sistemas Senior** \
+**FullStack Developer** \
 **Enotria** • Full-time • 2014 - 2018 • _**4 años**_ \
 Skills: `C#`, `ASP.NET MVC`, `SQL Server`, `SignalR`, `C++`, `Mifare`, `OMNIKEY SDK`, `Han's Laser SDK`
 
