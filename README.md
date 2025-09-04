@@ -153,8 +153,8 @@ Skills: `C#`, `ASP.NET MVC`, `SQL Server`, `SignalR`, `C++`, `Mifare`, `OMNIKEY 
 
 ## 🎓 Educación
 
-**🎓 Dirección de Tecnologías de la Información**  
-*ISIL Escuela de Negocios* | Lima, Perú | *2024 - En curso*
+**🎓 Ingeniería de Ciberseguridad**  
+*Cibertec (Laureate Education)* | Lima, Perú | *2025 - En curso*
 
 **💻 Técnico en Computación e Informática**  
 *Cibertec (Laureate Education)* | Lima, Perú | *2011 - 2014*  
@@ -163,6 +163,12 @@ Skills: `C#`, `ASP.NET MVC`, `SQL Server`, `SignalR`, `C++`, `Mifare`, `OMNIKEY 
 ---
 
 ## 📜 Certificaciones
+
+🏅 **AWS Certified Solutions Architect - Associate**  
+*Amazon Web Services (AWS)*
+
+🏅 **AWS Certified AI Practitioner**  
+*Amazon Web Services (AWS)*
 
 🏅 **AWS Certified Developer – Associate**  
 *Amazon Web Services (AWS)*
